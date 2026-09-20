@@ -1,0 +1,6789 @@
+
+[
+    {
+      "employee_id": "EMPLOYEE_TOO_LONG_001",
+      "first_name": "Arjun",
+      "last_name": "Sharma",
+      "email": "arjun.sharma1@tc.com",
+      "phone_number": "9876500000",
+      "hire_date": "2019-01-01",
+      "department": "Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000001",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "100, Tech Park Avenue, Sector 10",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Karan Sharma",
+        "relationship": "Spouse",
+        "phone": "9986500000",
+        "email": "emergency1@example.com"
+      }
+    },
+    {
+      "employee_id": "E000002",
+      "first_name": "A",
+      "last_name": "Singh",
+      "email": "rahul.singh2@tc.com",
+      "phone_number": "9876500001",
+      "hire_date": "2020-02-02",
+      "department": "Platform",
+      "job_title": "Backend Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000002",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "101, Tech Park Avenue, Sector 11",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditya Singh",
+        "relationship": "Spouse",
+        "phone": "9986500001",
+        "email": "emergency2@example.com"
+      }
+    },
+    {
+      "employee_id": "E000003",
+      "first_name": "Amit",
+      "last_name": "Joshi",
+      "email": "a@b",
+      "phone_number": "9876500002",
+      "hire_date": "2021-03-03",
+      "department": "Data Engineering",
+      "job_title": "Software Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000003",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "102, Tech Park Avenue, Sector 12",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Nikhil Joshi",
+        "relationship": "Spouse",
+        "phone": "9986500002",
+        "email": "emergency3@example.com"
+      }
+    },
+    {
+      "employee_id": "E000004",
+      "first_name": "Vikram",
+      "last_name": "Nair",
+      "email": "vikram.nair4@tc.com",
+      "phone_number": "98765",
+      "hire_date": "2022-04-04",
+      "department": "DevOps",
+      "job_title": "Senior Software Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000004",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "103, Tech Park Avenue, Sector 13",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Siddharth Nair",
+        "relationship": "Spouse",
+        "phone": "9986500003",
+        "email": "emergency4@example.com"
+      }
+    },
+    {
+      "employee_id": "E000005",
+      "first_name": "Rohan",
+      "last_name": "Malhotra",
+      "email": "rohan.malhotra5@tc.com",
+      "phone_number": "9876500004",
+      "hire_date": "2023-05-05",
+      "department": "DDDDDDDDDDDDDDDDDDDDDDDDD",
+      "job_title": "Cloud Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000005",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "104, Tech Park Avenue, Sector 14",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Varun Malhotra",
+        "relationship": "Spouse",
+        "phone": "9986500004",
+        "email": "emergency5@example.com"
+      }
+    },
+    {
+      "employee_id": "E000006",
+      "first_name": "Karan",
+      "last_name": "Jain",
+      "email": "karan.jain6@tc.com",
+      "phone_number": "9876500005",
+      "hire_date": "2024-06-06",
+      "department": "Engineering",
+      "job_title": "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000006",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "105, Tech Park Avenue, Sector 15",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ankit Jain",
+        "relationship": "Spouse",
+        "phone": "9986500005",
+        "email": "emergency6@example.com"
+      }
+    },
+    {
+      "employee_id": "E000007",
+      "first_name": "Aditya",
+      "last_name": "Rao",
+      "email": "aditya.rao7@tc.com",
+      "phone_number": "9876500006",
+      "hire_date": "2025-07-07",
+      "department": "Platform",
+      "job_title": "DevOps Engineer",
+      "salary": 950000,
+      "currency": "US",
+      "employment_status": "Part-time",
+      "manager_id": "M000007",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "106, Tech Park Avenue, Sector 16",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Manish Rao",
+        "relationship": "Spouse",
+        "phone": "9986500006",
+        "email": "emergency7@example.com"
+      }
+    },
+    {
+      "employee_id": "E000008",
+      "first_name": "Nikhil",
+      "last_name": "Verma",
+      "email": "nikhil.verma8@tc.com",
+      "phone_number": "9876500007",
+      "hire_date": "2026-08-08",
+      "department": "Data Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "EEEEEEEEEEEEEEEEEEEE",
+      "manager_id": "M000008",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "107, Tech Park Avenue, Sector 17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Raj Verma",
+        "relationship": "Spouse",
+        "phone": "9986500007",
+        "email": "emergency8@example.com"
+      }
+    },
+    {
+      "employee_id": "E000009",
+      "first_name": "Siddharth",
+      "last_name": "Gupta",
+      "email": "siddharth.gupta9@tc.com",
+      "phone_number": "9876500008",
+      "hire_date": "2019-09-09",
+      "department": "DevOps",
+      "job_title": "Senior Backend Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "MANAGER_TOO_LONG",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "108, Tech Park Avenue, Sector 18",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neeraj Gupta",
+        "relationship": "Spouse",
+        "phone": "9986500008",
+        "email": "emergency9@example.com"
+      }
+    },
+    {
+      "employee_id": "E000010",
+      "first_name": "Varun",
+      "last_name": "Kumar",
+      "email": "varun.kumar10@tc.com",
+      "phone_number": "9876500009",
+      "hire_date": "2020-10-10",
+      "department": "Product Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000010",
+      "is_active": true,
+      "skills": [
+        "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      ],
+      "address": {
+        "street": "109, Tech Park Avenue, Sector 19",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Saurabh Kumar",
+        "relationship": "Spouse",
+        "phone": "9986500009",
+        "email": "emergency10@example.com"
+      }
+    },
+    {
+      "employee_id": "EMPLOYEE_TOO_LONG_001",
+      "first_name": "Ankit",
+      "last_name": "Reddy",
+      "email": "ankit.reddy11@tc.com",
+      "phone_number": "9876500010",
+      "hire_date": "2021-11-11",
+      "department": "Engineering",
+      "job_title": "Software Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000011",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "110, Tech Park Avenue, Sector 20",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Pooja Reddy",
+        "relationship": "Spouse",
+        "phone": "9986500010",
+        "email": "emergency11@example.com"
+      }
+    },
+    {
+      "employee_id": "E000012",
+      "first_name": "A",
+      "last_name": "Kapoor",
+      "email": "manish.kapoor12@tc.com",
+      "phone_number": "9876500011",
+      "hire_date": "2022-12-12",
+      "department": "Platform",
+      "job_title": "Senior Software Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000012",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "111, Tech Park Avenue, Sector 21",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Kapoor",
+        "relationship": "Spouse",
+        "phone": "9986500011",
+        "email": "emergency12@example.com"
+      }
+    },
+    {
+      "employee_id": "E000013",
+      "first_name": "Raj",
+      "last_name": "Chopra",
+      "email": "a@b",
+      "phone_number": "9876500012",
+      "hire_date": "2023-01-13",
+      "department": "Data Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000013",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "112, Tech Park Avenue, Sector 22",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neha Chopra",
+        "relationship": "Spouse",
+        "phone": "9986500012",
+        "email": "emergency13@example.com"
+      }
+    },
+    {
+      "employee_id": "E000014",
+      "first_name": "Neeraj",
+      "last_name": "Mishra",
+      "email": "neeraj.mishra14@tc.com",
+      "phone_number": "98765",
+      "hire_date": "2024-02-14",
+      "department": "DevOps",
+      "job_title": "Data Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000014",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "113, Tech Park Avenue, Sector 23",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ananya Mishra",
+        "relationship": "Spouse",
+        "phone": "9986500013",
+        "email": "emergency14@example.com"
+      }
+    },
+    {
+      "employee_id": "E000015",
+      "first_name": "Saurabh",
+      "last_name": "Patel",
+      "email": "saurabh.patel15@tc.com",
+      "phone_number": "9876500014",
+      "hire_date": "2025-03-15",
+      "department": "DDDDDDDDDDDDDDDDDDDDDDDDD",
+      "job_title": "DevOps Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000015",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "114, Tech Park Avenue, Sector 24",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Patel",
+        "relationship": "Spouse",
+        "phone": "9986500014",
+        "email": "emergency15@example.com"
+      }
+    },
+    {
+      "employee_id": "E000016",
+      "first_name": "Pooja",
+      "last_name": "Mehta",
+      "email": "pooja.mehta16@tc.com",
+      "phone_number": "9876500015",
+      "hire_date": "2026-04-16",
+      "department": "Engineering",
+      "job_title": "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000016",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "115, Tech Park Avenue, Sector 25",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Kavya Mehta",
+        "relationship": "Spouse",
+        "phone": "9986500015",
+        "email": "emergency16@example.com"
+      }
+    },
+    {
+      "employee_id": "E000017",
+      "first_name": "Priya",
+      "last_name": "Iyer",
+      "email": "priya.iyer17@tc.com",
+      "phone_number": "9876500016",
+      "hire_date": "2019-05-17",
+      "department": "Platform",
+      "job_title": "Senior Backend Engineer",
+      "salary": 850000,
+      "currency": "US",
+      "employment_status": "Full-time",
+      "manager_id": "M000017",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "116, Tech Park Avenue, Sector 26",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Isha Iyer",
+        "relationship": "Spouse",
+        "phone": "9986500016",
+        "email": "emergency17@example.com"
+      }
+    },
+    {
+      "employee_id": "E000018",
+      "first_name": "Neha",
+      "last_name": "Shah",
+      "email": "neha.shah18@tc.com",
+      "phone_number": "9876500017",
+      "hire_date": "2020-06-18",
+      "department": "Data Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "EEEEEEEEEEEEEEEEEEEE",
+      "manager_id": "M000018",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "117, Tech Park Avenue, Sector 27",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Meera Shah",
+        "relationship": "Spouse",
+        "phone": "9986500017",
+        "email": "emergency18@example.com"
+      }
+    },
+    {
+      "employee_id": "E000019",
+      "first_name": "Ananya",
+      "last_name": "Das",
+      "email": "ananya.das19@tc.com",
+      "phone_number": "9876500018",
+      "hire_date": "2021-07-19",
+      "department": "DevOps",
+      "job_title": "Software Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "MANAGER_TOO_LONG",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "118, Tech Park Avenue, Sector 28",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditi Das",
+        "relationship": "Spouse",
+        "phone": "9986500018",
+        "email": "emergency19@example.com"
+      }
+    },
+    {
+      "employee_id": "E000020",
+      "first_name": "Sneha",
+      "last_name": "Bose",
+      "email": "sneha.bose20@tc.com",
+      "phone_number": "9876500019",
+      "hire_date": "2022-08-20",
+      "department": "Product Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000020",
+      "is_active": true,
+      "skills": [
+        "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      ],
+      "address": {
+        "street": "119, Tech Park Avenue, Sector 29",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Riya Bose",
+        "relationship": "Spouse",
+        "phone": "9986500019",
+        "email": "emergency20@example.com"
+      }
+    },
+    {
+      "employee_id": "EMPLOYEE_TOO_LONG_001",
+      "first_name": "Kavya",
+      "last_name": "Sharma",
+      "email": "kavya.sharma21@tc.com",
+      "phone_number": "9876500020",
+      "hire_date": "2023-09-21",
+      "department": "Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000021",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "120, Tech Park Avenue, Sector 10",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Arjun Sharma",
+        "relationship": "Spouse",
+        "phone": "9986500020",
+        "email": "emergency21@example.com"
+      }
+    },
+    {
+      "employee_id": "E000022",
+      "first_name": "A",
+      "last_name": "Singh",
+      "email": "isha.singh22@tc.com",
+      "phone_number": "9876500021",
+      "hire_date": "2024-10-22",
+      "department": "Platform",
+      "job_title": "Data Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000022",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "121, Tech Park Avenue, Sector 11",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rahul Singh",
+        "relationship": "Spouse",
+        "phone": "9986500021",
+        "email": "emergency22@example.com"
+      }
+    },
+    {
+      "employee_id": "E000023",
+      "first_name": "Meera",
+      "last_name": "Joshi",
+      "email": "a@b",
+      "phone_number": "9876500022",
+      "hire_date": "2025-11-23",
+      "department": "Data Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000023",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "122, Tech Park Avenue, Sector 12",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Joshi",
+        "relationship": "Spouse",
+        "phone": "9986500022",
+        "email": "emergency23@example.com"
+      }
+    },
+    {
+      "employee_id": "E000024",
+      "first_name": "Aditi",
+      "last_name": "Nair",
+      "email": "aditi.nair24@tc.com",
+      "phone_number": "98765",
+      "hire_date": "2026-12-24",
+      "department": "DevOps",
+      "job_title": "Full Stack Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000024",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "123, Tech Park Avenue, Sector 13",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Vikram Nair",
+        "relationship": "Spouse",
+        "phone": "9986500023",
+        "email": "emergency24@example.com"
+      }
+    },
+    {
+      "employee_id": "E000025",
+      "first_name": "Riya",
+      "last_name": "Malhotra",
+      "email": "riya.malhotra25@tc.com",
+      "phone_number": "9876500024",
+      "hire_date": "2019-01-25",
+      "department": "DDDDDDDDDDDDDDDDDDDDDDDDD",
+      "job_title": "Senior Backend Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000025",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "124, Tech Park Avenue, Sector 14",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rohan Malhotra",
+        "relationship": "Spouse",
+        "phone": "9986500024",
+        "email": "emergency25@example.com"
+      }
+    },
+    {
+      "employee_id": "E000026",
+      "first_name": "Arjun",
+      "last_name": "Jain",
+      "email": "arjun.jain26@tc.com",
+      "phone_number": "9876500025",
+      "hire_date": "2020-02-26",
+      "department": "Engineering",
+      "job_title": "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000026",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "125, Tech Park Avenue, Sector 15",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Karan Jain",
+        "relationship": "Spouse",
+        "phone": "9986500025",
+        "email": "emergency26@example.com"
+      }
+    },
+    {
+      "employee_id": "E000027",
+      "first_name": "Rahul",
+      "last_name": "Rao",
+      "email": "rahul.rao27@tc.com",
+      "phone_number": "9876500026",
+      "hire_date": "2021-03-27",
+      "department": "Platform",
+      "job_title": "Software Engineer",
+      "salary": 750000,
+      "currency": "US",
+      "employment_status": "Part-time",
+      "manager_id": "M000027",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "126, Tech Park Avenue, Sector 16",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditya Rao",
+        "relationship": "Spouse",
+        "phone": "9986500026",
+        "email": "emergency27@example.com"
+      }
+    },
+    {
+      "employee_id": "E000028",
+      "first_name": "Amit",
+      "last_name": "Verma",
+      "email": "amit.verma28@tc.com",
+      "phone_number": "9876500027",
+      "hire_date": "2022-04-01",
+      "department": "Data Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "EEEEEEEEEEEEEEEEEEEE",
+      "manager_id": "M000028",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "127, Tech Park Avenue, Sector 17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Nikhil Verma",
+        "relationship": "Spouse",
+        "phone": "9986500027",
+        "email": "emergency28@example.com"
+      }
+    },
+    {
+      "employee_id": "E000029",
+      "first_name": "Vikram",
+      "last_name": "Gupta",
+      "email": "vikram.gupta29@tc.com",
+      "phone_number": "9876500028",
+      "hire_date": "2023-05-02",
+      "department": "DevOps",
+      "job_title": "Cloud Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "MANAGER_TOO_LONG",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "128, Tech Park Avenue, Sector 18",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Siddharth Gupta",
+        "relationship": "Spouse",
+        "phone": "9986500028",
+        "email": "emergency29@example.com"
+      }
+    },
+    {
+      "employee_id": "E000030",
+      "first_name": "Rohan",
+      "last_name": "Kumar",
+      "email": "rohan.kumar30@tc.com",
+      "phone_number": "9876500029",
+      "hire_date": "2024-06-03",
+      "department": "Product Engineering",
+      "job_title": "Data Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000030",
+      "is_active": true,
+      "skills": [
+        "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      ],
+      "address": {
+        "street": "129, Tech Park Avenue, Sector 19",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Varun Kumar",
+        "relationship": "Spouse",
+        "phone": "9986500029",
+        "email": "emergency30@example.com"
+      }
+    },
+    {
+      "employee_id": "EMPLOYEE_TOO_LONG_001",
+      "first_name": "Karan",
+      "last_name": "Reddy",
+      "email": "karan.reddy31@tc.com",
+      "phone_number": "9876500030",
+      "hire_date": "2025-07-04",
+      "department": "Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000031",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "130, Tech Park Avenue, Sector 20",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ankit Reddy",
+        "relationship": "Spouse",
+        "phone": "9986500030",
+        "email": "emergency31@example.com"
+      }
+    },
+    {
+      "employee_id": "E000032",
+      "first_name": "A",
+      "last_name": "Kapoor",
+      "email": "aditya.kapoor32@tc.com",
+      "phone_number": "9876500031",
+      "hire_date": "2026-08-05",
+      "department": "Platform",
+      "job_title": "Full Stack Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000032",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "131, Tech Park Avenue, Sector 21",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Manish Kapoor",
+        "relationship": "Spouse",
+        "phone": "9986500031",
+        "email": "emergency32@example.com"
+      }
+    },
+    {
+      "employee_id": "E000033",
+      "first_name": "Nikhil",
+      "last_name": "Chopra",
+      "email": "a@b",
+      "phone_number": "9876500032",
+      "hire_date": "2019-09-06",
+      "department": "Data Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000033",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "132, Tech Park Avenue, Sector 22",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Raj Chopra",
+        "relationship": "Spouse",
+        "phone": "9986500032",
+        "email": "emergency33@example.com"
+      }
+    },
+    {
+      "employee_id": "E000034",
+      "first_name": "Siddharth",
+      "last_name": "Mishra",
+      "email": "siddharth.mishra34@tc.com",
+      "phone_number": "98765",
+      "hire_date": "2020-10-07",
+      "department": "DevOps",
+      "job_title": "Backend Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000034",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "133, Tech Park Avenue, Sector 23",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neeraj Mishra",
+        "relationship": "Spouse",
+        "phone": "9986500033",
+        "email": "emergency34@example.com"
+      }
+    },
+    {
+      "employee_id": "E000035",
+      "first_name": "Varun",
+      "last_name": "Patel",
+      "email": "varun.patel35@tc.com",
+      "phone_number": "9876500034",
+      "hire_date": "2021-11-08",
+      "department": "DDDDDDDDDDDDDDDDDDDDDDDDD",
+      "job_title": "Software Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000035",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "134, Tech Park Avenue, Sector 24",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Saurabh Patel",
+        "relationship": "Spouse",
+        "phone": "9986500034",
+        "email": "emergency35@example.com"
+      }
+    },
+    {
+      "employee_id": "E000036",
+      "first_name": "Ankit",
+      "last_name": "Mehta",
+      "email": "ankit.mehta36@tc.com",
+      "phone_number": "9876500035",
+      "hire_date": "2022-12-09",
+      "department": "Engineering",
+      "job_title": "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000036",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "135, Tech Park Avenue, Sector 25",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Pooja Mehta",
+        "relationship": "Spouse",
+        "phone": "9986500035",
+        "email": "emergency36@example.com"
+      }
+    },
+    {
+      "employee_id": "E000037",
+      "first_name": "Manish",
+      "last_name": "Iyer",
+      "email": "manish.iyer37@tc.com",
+      "phone_number": "9876500036",
+      "hire_date": "2023-01-10",
+      "department": "Platform",
+      "job_title": "Cloud Engineer",
+      "salary": 650000,
+      "currency": "US",
+      "employment_status": "Full-time",
+      "manager_id": "M000037",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "136, Tech Park Avenue, Sector 26",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Iyer",
+        "relationship": "Spouse",
+        "phone": "9986500036",
+        "email": "emergency37@example.com"
+      }
+    },
+    {
+      "employee_id": "E000038",
+      "first_name": "Raj",
+      "last_name": "Shah",
+      "email": "raj.shah38@tc.com",
+      "phone_number": "9876500037",
+      "hire_date": "2024-02-11",
+      "department": "Data Engineering",
+      "job_title": "Data Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "EEEEEEEEEEEEEEEEEEEE",
+      "manager_id": "M000038",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "137, Tech Park Avenue, Sector 27",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neha Shah",
+        "relationship": "Spouse",
+        "phone": "9986500037",
+        "email": "emergency38@example.com"
+      }
+    },
+    {
+      "employee_id": "E000039",
+      "first_name": "Neeraj",
+      "last_name": "Das",
+      "email": "neeraj.das39@tc.com",
+      "phone_number": "9876500038",
+      "hire_date": "2025-03-12",
+      "department": "DevOps",
+      "job_title": "DevOps Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "MANAGER_TOO_LONG",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "138, Tech Park Avenue, Sector 28",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ananya Das",
+        "relationship": "Spouse",
+        "phone": "9986500038",
+        "email": "emergency39@example.com"
+      }
+    },
+    {
+      "employee_id": "E000040",
+      "first_name": "Saurabh",
+      "last_name": "Bose",
+      "email": "saurabh.bose40@tc.com",
+      "phone_number": "9876500039",
+      "hire_date": "2026-04-13",
+      "department": "Product Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000040",
+      "is_active": true,
+      "skills": [
+        "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      ],
+      "address": {
+        "street": "139, Tech Park Avenue, Sector 29",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Bose",
+        "relationship": "Spouse",
+        "phone": "9986500039",
+        "email": "emergency40@example.com"
+      }
+    },
+    {
+      "employee_id": "EMPLOYEE_TOO_LONG_001",
+      "first_name": "Pooja",
+      "last_name": "Sharma",
+      "email": "pooja.sharma41@tc.com",
+      "phone_number": "9876500040",
+      "hire_date": "2019-05-14",
+      "department": "Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000041",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "140, Tech Park Avenue, Sector 10",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Kavya Sharma",
+        "relationship": "Spouse",
+        "phone": "9986500040",
+        "email": "emergency41@example.com"
+      }
+    },
+    {
+      "employee_id": "E000042",
+      "first_name": "A",
+      "last_name": "Singh",
+      "email": "priya.singh42@tc.com",
+      "phone_number": "9876500041",
+      "hire_date": "2020-06-15",
+      "department": "Platform",
+      "job_title": "Backend Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000042",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "141, Tech Park Avenue, Sector 11",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Isha Singh",
+        "relationship": "Spouse",
+        "phone": "9986500041",
+        "email": "emergency42@example.com"
+      }
+    },
+    {
+      "employee_id": "E000043",
+      "first_name": "Neha",
+      "last_name": "Joshi",
+      "email": "a@b",
+      "phone_number": "9876500042",
+      "hire_date": "2021-07-16",
+      "department": "Data Engineering",
+      "job_title": "Software Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000043",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "142, Tech Park Avenue, Sector 12",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Meera Joshi",
+        "relationship": "Spouse",
+        "phone": "9986500042",
+        "email": "emergency43@example.com"
+      }
+    },
+    {
+      "employee_id": "E000044",
+      "first_name": "Ananya",
+      "last_name": "Nair",
+      "email": "ananya.nair44@tc.com",
+      "phone_number": "98765",
+      "hire_date": "2022-08-17",
+      "department": "DevOps",
+      "job_title": "Senior Software Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000044",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "143, Tech Park Avenue, Sector 13",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditi Nair",
+        "relationship": "Spouse",
+        "phone": "9986500043",
+        "email": "emergency44@example.com"
+      }
+    },
+    {
+      "employee_id": "E000045",
+      "first_name": "Sneha",
+      "last_name": "Malhotra",
+      "email": "sneha.malhotra45@tc.com",
+      "phone_number": "9876500044",
+      "hire_date": "2023-09-18",
+      "department": "DDDDDDDDDDDDDDDDDDDDDDDDD",
+      "job_title": "Cloud Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000045",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "144, Tech Park Avenue, Sector 14",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Riya Malhotra",
+        "relationship": "Spouse",
+        "phone": "9986500044",
+        "email": "emergency45@example.com"
+      }
+    },
+    {
+      "employee_id": "E000046",
+      "first_name": "Kavya",
+      "last_name": "Jain",
+      "email": "kavya.jain46@tc.com",
+      "phone_number": "9876500045",
+      "hire_date": "2024-10-19",
+      "department": "Engineering",
+      "job_title": "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000046",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "145, Tech Park Avenue, Sector 15",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Arjun Jain",
+        "relationship": "Spouse",
+        "phone": "9986500045",
+        "email": "emergency46@example.com"
+      }
+    },
+    {
+      "employee_id": "E000047",
+      "first_name": "Isha",
+      "last_name": "Rao",
+      "email": "isha.rao47@tc.com",
+      "phone_number": "9876500046",
+      "hire_date": "2025-11-20",
+      "department": "Platform",
+      "job_title": "DevOps Engineer",
+      "salary": 1150000,
+      "currency": "US",
+      "employment_status": "Part-time",
+      "manager_id": "M000047",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "146, Tech Park Avenue, Sector 16",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rahul Rao",
+        "relationship": "Spouse",
+        "phone": "9986500046",
+        "email": "emergency47@example.com"
+      }
+    },
+    {
+      "employee_id": "E000048",
+      "first_name": "Meera",
+      "last_name": "Verma",
+      "email": "meera.verma48@tc.com",
+      "phone_number": "9876500047",
+      "hire_date": "2026-12-21",
+      "department": "Data Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "EEEEEEEEEEEEEEEEEEEE",
+      "manager_id": "M000048",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "147, Tech Park Avenue, Sector 17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Verma",
+        "relationship": "Spouse",
+        "phone": "9986500047",
+        "email": "emergency48@example.com"
+      }
+    },
+    {
+      "employee_id": "E000049",
+      "first_name": "Aditi",
+      "last_name": "Gupta",
+      "email": "aditi.gupta49@tc.com",
+      "phone_number": "9876500048",
+      "hire_date": "2019-01-22",
+      "department": "DevOps",
+      "job_title": "Senior Backend Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "MANAGER_TOO_LONG",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "148, Tech Park Avenue, Sector 18",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Vikram Gupta",
+        "relationship": "Spouse",
+        "phone": "9986500048",
+        "email": "emergency49@example.com"
+      }
+    },
+    {
+      "employee_id": "E000050",
+      "first_name": "Riya",
+      "last_name": "Kumar",
+      "email": "riya.kumar50@tc.com",
+      "phone_number": "9876500049",
+      "hire_date": "2020-02-23",
+      "department": "Product Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000050",
+      "is_active": true,
+      "skills": [
+        "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      ],
+      "address": {
+        "street": "149, Tech Park Avenue, Sector 19",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rohan Kumar",
+        "relationship": "Spouse",
+        "phone": "9986500049",
+        "email": "emergency50@example.com"
+      }
+    },
+    {
+      "employee_id": "E000051",
+      "first_name": "Arjun",
+      "last_name": "Reddy",
+      "email": "arjun.reddy51@tc.com",
+      "phone_number": "9876500050",
+      "hire_date": "2021-03-24",
+      "department": "Engineering",
+      "job_title": "Software Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000051",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "150, Tech Park Avenue, Sector 20",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Karan Reddy",
+        "relationship": "Spouse",
+        "phone": "9986500050",
+        "email": "emergency51@example.com"
+      }
+    },
+    {
+      "employee_id": "E000052",
+      "first_name": "Rahul",
+      "last_name": "Kapoor",
+      "email": "rahul.kapoor52@tc.com",
+      "phone_number": "9876500051",
+      "hire_date": "2022-04-25",
+      "department": "Platform",
+      "job_title": "Senior Software Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000052",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "151, Tech Park Avenue, Sector 21",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditya Kapoor",
+        "relationship": "Spouse",
+        "phone": "9986500051",
+        "email": "emergency52@example.com"
+      }
+    },
+    {
+      "employee_id": "E000053",
+      "first_name": "Amit",
+      "last_name": "Chopra",
+      "email": "amit.chopra53@tc.com",
+      "phone_number": "9876500052",
+      "hire_date": "2023-05-26",
+      "department": "Data Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000053",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "152, Tech Park Avenue, Sector 22",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Nikhil Chopra",
+        "relationship": "Spouse",
+        "phone": "9986500052",
+        "email": "emergency53@example.com"
+      }
+    },
+    {
+      "employee_id": "E000054",
+      "first_name": "Vikram",
+      "last_name": "Mishra",
+      "email": "vikram.mishra54@tc.com",
+      "phone_number": "9876500053",
+      "hire_date": "2024-06-27",
+      "department": "DevOps",
+      "job_title": "Data Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000054",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "153, Tech Park Avenue, Sector 23",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Siddharth Mishra",
+        "relationship": "Spouse",
+        "phone": "9986500053",
+        "email": "emergency54@example.com"
+      }
+    },
+    {
+      "employee_id": "E000055",
+      "first_name": "Rohan",
+      "last_name": "Patel",
+      "email": "rohan.patel55@tc.com",
+      "phone_number": "9876500054",
+      "hire_date": "2025-07-01",
+      "department": "Product Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000055",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "154, Tech Park Avenue, Sector 24",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Varun Patel",
+        "relationship": "Spouse",
+        "phone": "9986500054",
+        "email": "emergency55@example.com"
+      }
+    },
+    {
+      "employee_id": "E000056",
+      "first_name": "Karan",
+      "last_name": "Mehta",
+      "email": "karan.mehta56@tc.com",
+      "phone_number": "9876500055",
+      "hire_date": "2026-08-02",
+      "department": "Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000056",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "155, Tech Park Avenue, Sector 25",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ankit Mehta",
+        "relationship": "Spouse",
+        "phone": "9986500055",
+        "email": "emergency56@example.com"
+      }
+    },
+    {
+      "employee_id": "E000057",
+      "first_name": "Aditya",
+      "last_name": "Iyer",
+      "email": "aditya.iyer57@tc.com",
+      "phone_number": "9876500056",
+      "hire_date": "2019-09-03",
+      "department": "Platform",
+      "job_title": "Senior Backend Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000057",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "156, Tech Park Avenue, Sector 26",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Manish Iyer",
+        "relationship": "Spouse",
+        "phone": "9986500056",
+        "email": "emergency57@example.com"
+      }
+    },
+    {
+      "employee_id": "E000058",
+      "first_name": "Nikhil",
+      "last_name": "Shah",
+      "email": "nikhil.shah58@tc.com",
+      "phone_number": "9876500057",
+      "hire_date": "2020-10-04",
+      "department": "Data Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000058",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "157, Tech Park Avenue, Sector 27",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Raj Shah",
+        "relationship": "Spouse",
+        "phone": "9986500057",
+        "email": "emergency58@example.com"
+      }
+    },
+    {
+      "employee_id": "E000059",
+      "first_name": "Siddharth",
+      "last_name": "Das",
+      "email": "siddharth.das59@tc.com",
+      "phone_number": "9876500058",
+      "hire_date": "2021-11-05",
+      "department": "DevOps",
+      "job_title": "Software Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000059",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "158, Tech Park Avenue, Sector 28",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neeraj Das",
+        "relationship": "Spouse",
+        "phone": "9986500058",
+        "email": "emergency59@example.com"
+      }
+    },
+    {
+      "employee_id": "E000060",
+      "first_name": "Varun",
+      "last_name": "Bose",
+      "email": "varun.bose60@tc.com",
+      "phone_number": "9876500059",
+      "hire_date": "2022-12-06",
+      "department": "Product Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000060",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "159, Tech Park Avenue, Sector 29",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Saurabh Bose",
+        "relationship": "Spouse",
+        "phone": "9986500059",
+        "email": "emergency60@example.com"
+      }
+    },
+    {
+      "employee_id": "E000061",
+      "first_name": "Ankit",
+      "last_name": "Sharma",
+      "email": "ankit.sharma61@tc.com",
+      "phone_number": "9876500060",
+      "hire_date": "2023-01-07",
+      "department": "Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000061",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "160, Tech Park Avenue, Sector 10",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Pooja Sharma",
+        "relationship": "Spouse",
+        "phone": "9986500060",
+        "email": "emergency61@example.com"
+      }
+    },
+    {
+      "employee_id": "E000062",
+      "first_name": "Manish",
+      "last_name": "Singh",
+      "email": "manish.singh62@tc.com",
+      "phone_number": "9876500061",
+      "hire_date": "2024-02-08",
+      "department": "Platform",
+      "job_title": "Data Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000062",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "161, Tech Park Avenue, Sector 11",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Singh",
+        "relationship": "Spouse",
+        "phone": "9986500061",
+        "email": "emergency62@example.com"
+      }
+    },
+    {
+      "employee_id": "E000063",
+      "first_name": "Raj",
+      "last_name": "Joshi",
+      "email": "raj.joshi63@tc.com",
+      "phone_number": "9876500062",
+      "hire_date": "2025-03-09",
+      "department": "Data Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000063",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "162, Tech Park Avenue, Sector 12",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neha Joshi",
+        "relationship": "Spouse",
+        "phone": "9986500062",
+        "email": "emergency63@example.com"
+      }
+    },
+    {
+      "employee_id": "E000064",
+      "first_name": "Neeraj",
+      "last_name": "Nair",
+      "email": "neeraj.nair64@tc.com",
+      "phone_number": "9876500063",
+      "hire_date": "2026-04-10",
+      "department": "DevOps",
+      "job_title": "Full Stack Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000064",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "163, Tech Park Avenue, Sector 13",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ananya Nair",
+        "relationship": "Spouse",
+        "phone": "9986500063",
+        "email": "emergency64@example.com"
+      }
+    },
+    {
+      "employee_id": "E000065",
+      "first_name": "Saurabh",
+      "last_name": "Malhotra",
+      "email": "saurabh.malhotra65@tc.com",
+      "phone_number": "9876500064",
+      "hire_date": "2019-05-11",
+      "department": "Product Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000065",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "164, Tech Park Avenue, Sector 14",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Malhotra",
+        "relationship": "Spouse",
+        "phone": "9986500064",
+        "email": "emergency65@example.com"
+      }
+    },
+    {
+      "employee_id": "E000066",
+      "first_name": "Pooja",
+      "last_name": "Jain",
+      "email": "pooja.jain66@tc.com",
+      "phone_number": "9876500065",
+      "hire_date": "2020-06-12",
+      "department": "Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000066",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "165, Tech Park Avenue, Sector 15",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Kavya Jain",
+        "relationship": "Spouse",
+        "phone": "9986500065",
+        "email": "emergency66@example.com"
+      }
+    },
+    {
+      "employee_id": "E000067",
+      "first_name": "Priya",
+      "last_name": "Rao",
+      "email": "priya.rao67@tc.com",
+      "phone_number": "9876500066",
+      "hire_date": "2021-07-13",
+      "department": "Platform",
+      "job_title": "Software Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000067",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "166, Tech Park Avenue, Sector 16",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Isha Rao",
+        "relationship": "Spouse",
+        "phone": "9986500066",
+        "email": "emergency67@example.com"
+      }
+    },
+    {
+      "employee_id": "E000068",
+      "first_name": "Neha",
+      "last_name": "Verma",
+      "email": "neha.verma68@tc.com",
+      "phone_number": "9876500067",
+      "hire_date": "2022-08-14",
+      "department": "Data Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000068",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "167, Tech Park Avenue, Sector 17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Meera Verma",
+        "relationship": "Spouse",
+        "phone": "9986500067",
+        "email": "emergency68@example.com"
+      }
+    },
+    {
+      "employee_id": "E000069",
+      "first_name": "Ananya",
+      "last_name": "Gupta",
+      "email": "ananya.gupta69@tc.com",
+      "phone_number": "9876500068",
+      "hire_date": "2023-09-15",
+      "department": "DevOps",
+      "job_title": "Cloud Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000069",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "168, Tech Park Avenue, Sector 18",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditi Gupta",
+        "relationship": "Spouse",
+        "phone": "9986500068",
+        "email": "emergency69@example.com"
+      }
+    },
+    {
+      "employee_id": "E000070",
+      "first_name": "Sneha",
+      "last_name": "Kumar",
+      "email": "sneha.kumar70@tc.com",
+      "phone_number": "9876500069",
+      "hire_date": "2024-10-16",
+      "department": "Product Engineering",
+      "job_title": "Data Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000070",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "169, Tech Park Avenue, Sector 19",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Riya Kumar",
+        "relationship": "Spouse",
+        "phone": "9986500069",
+        "email": "emergency70@example.com"
+      }
+    },
+    {
+      "employee_id": "E000071",
+      "first_name": "Kavya",
+      "last_name": "Reddy",
+      "email": "kavya.reddy71@tc.com",
+      "phone_number": "9876500070",
+      "hire_date": "2025-11-17",
+      "department": "Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000071",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "170, Tech Park Avenue, Sector 20",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Arjun Reddy",
+        "relationship": "Spouse",
+        "phone": "9986500070",
+        "email": "emergency71@example.com"
+      }
+    },
+    {
+      "employee_id": "E000072",
+      "first_name": "Isha",
+      "last_name": "Kapoor",
+      "email": "isha.kapoor72@tc.com",
+      "phone_number": "9876500071",
+      "hire_date": "2026-12-18",
+      "department": "Platform",
+      "job_title": "Full Stack Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000072",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "171, Tech Park Avenue, Sector 21",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rahul Kapoor",
+        "relationship": "Spouse",
+        "phone": "9986500071",
+        "email": "emergency72@example.com"
+      }
+    },
+    {
+      "employee_id": "E000073",
+      "first_name": "Meera",
+      "last_name": "Chopra",
+      "email": "meera.chopra73@tc.com",
+      "phone_number": "9876500072",
+      "hire_date": "2019-01-19",
+      "department": "Data Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000073",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "172, Tech Park Avenue, Sector 22",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Chopra",
+        "relationship": "Spouse",
+        "phone": "9986500072",
+        "email": "emergency73@example.com"
+      }
+    },
+    {
+      "employee_id": "E000074",
+      "first_name": "Aditi",
+      "last_name": "Mishra",
+      "email": "aditi.mishra74@tc.com",
+      "phone_number": "9876500073",
+      "hire_date": "2020-02-20",
+      "department": "DevOps",
+      "job_title": "Backend Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000074",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "173, Tech Park Avenue, Sector 23",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Vikram Mishra",
+        "relationship": "Spouse",
+        "phone": "9986500073",
+        "email": "emergency74@example.com"
+      }
+    },
+    {
+      "employee_id": "E000075",
+      "first_name": "Riya",
+      "last_name": "Patel",
+      "email": "riya.patel75@tc.com",
+      "phone_number": "9876500074",
+      "hire_date": "2021-03-21",
+      "department": "Product Engineering",
+      "job_title": "Software Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000075",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "174, Tech Park Avenue, Sector 24",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rohan Patel",
+        "relationship": "Spouse",
+        "phone": "9986500074",
+        "email": "emergency75@example.com"
+      }
+    },
+    {
+      "employee_id": "E000076",
+      "first_name": "Arjun",
+      "last_name": "Mehta",
+      "email": "arjun.mehta76@tc.com",
+      "phone_number": "9876500075",
+      "hire_date": "2022-04-22",
+      "department": "Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000076",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "175, Tech Park Avenue, Sector 25",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Karan Mehta",
+        "relationship": "Spouse",
+        "phone": "9986500075",
+        "email": "emergency76@example.com"
+      }
+    },
+    {
+      "employee_id": "E000077",
+      "first_name": "Rahul",
+      "last_name": "Iyer",
+      "email": "rahul.iyer77@tc.com",
+      "phone_number": "9876500076",
+      "hire_date": "2023-05-23",
+      "department": "Platform",
+      "job_title": "Cloud Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000077",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "176, Tech Park Avenue, Sector 26",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditya Iyer",
+        "relationship": "Spouse",
+        "phone": "9986500076",
+        "email": "emergency77@example.com"
+      }
+    },
+    {
+      "employee_id": "E000078",
+      "first_name": "Amit",
+      "last_name": "Shah",
+      "email": "amit.shah78@tc.com",
+      "phone_number": "9876500077",
+      "hire_date": "2024-06-24",
+      "department": "Data Engineering",
+      "job_title": "Data Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000078",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "177, Tech Park Avenue, Sector 27",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Nikhil Shah",
+        "relationship": "Spouse",
+        "phone": "9986500077",
+        "email": "emergency78@example.com"
+      }
+    },
+    {
+      "employee_id": "E000079",
+      "first_name": "Vikram",
+      "last_name": "Das",
+      "email": "vikram.das79@tc.com",
+      "phone_number": "9876500078",
+      "hire_date": "2025-07-25",
+      "department": "DevOps",
+      "job_title": "DevOps Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000079",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "178, Tech Park Avenue, Sector 28",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Siddharth Das",
+        "relationship": "Spouse",
+        "phone": "9986500078",
+        "email": "emergency79@example.com"
+      }
+    },
+    {
+      "employee_id": "E000080",
+      "first_name": "Rohan",
+      "last_name": "Bose",
+      "email": "rohan.bose80@tc.com",
+      "phone_number": "9876500079",
+      "hire_date": "2026-08-26",
+      "department": "Product Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000080",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "179, Tech Park Avenue, Sector 29",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Varun Bose",
+        "relationship": "Spouse",
+        "phone": "9986500079",
+        "email": "emergency80@example.com"
+      }
+    },
+    {
+      "employee_id": "E000081",
+      "first_name": "Karan",
+      "last_name": "Sharma",
+      "email": "karan.sharma81@tc.com",
+      "phone_number": "9876500080",
+      "hire_date": "2019-09-27",
+      "department": "Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000081",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "180, Tech Park Avenue, Sector 10",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ankit Sharma",
+        "relationship": "Spouse",
+        "phone": "9986500080",
+        "email": "emergency81@example.com"
+      }
+    },
+    {
+      "employee_id": "E000082",
+      "first_name": "Aditya",
+      "last_name": "Singh",
+      "email": "aditya.singh82@tc.com",
+      "phone_number": "9876500081",
+      "hire_date": "2020-10-01",
+      "department": "Platform",
+      "job_title": "Backend Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000082",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "181, Tech Park Avenue, Sector 11",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Manish Singh",
+        "relationship": "Spouse",
+        "phone": "9986500081",
+        "email": "emergency82@example.com"
+      }
+    },
+    {
+      "employee_id": "E000083",
+      "first_name": "Nikhil",
+      "last_name": "Joshi",
+      "email": "nikhil.joshi83@tc.com",
+      "phone_number": "9876500082",
+      "hire_date": "2021-11-02",
+      "department": "Data Engineering",
+      "job_title": "Software Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000083",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "182, Tech Park Avenue, Sector 12",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Raj Joshi",
+        "relationship": "Spouse",
+        "phone": "9986500082",
+        "email": "emergency83@example.com"
+      }
+    },
+    {
+      "employee_id": "E000084",
+      "first_name": "Siddharth",
+      "last_name": "Nair",
+      "email": "siddharth.nair84@tc.com",
+      "phone_number": "9876500083",
+      "hire_date": "2022-12-03",
+      "department": "DevOps",
+      "job_title": "Senior Software Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000084",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "183, Tech Park Avenue, Sector 13",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neeraj Nair",
+        "relationship": "Spouse",
+        "phone": "9986500083",
+        "email": "emergency84@example.com"
+      }
+    },
+    {
+      "employee_id": "E000085",
+      "first_name": "Varun",
+      "last_name": "Malhotra",
+      "email": "varun.malhotra85@tc.com",
+      "phone_number": "9876500084",
+      "hire_date": "2023-01-04",
+      "department": "Product Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000085",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "184, Tech Park Avenue, Sector 14",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Saurabh Malhotra",
+        "relationship": "Spouse",
+        "phone": "9986500084",
+        "email": "emergency85@example.com"
+      }
+    },
+    {
+      "employee_id": "E000086",
+      "first_name": "Ankit",
+      "last_name": "Jain",
+      "email": "ankit.jain86@tc.com",
+      "phone_number": "9876500085",
+      "hire_date": "2024-02-05",
+      "department": "Engineering",
+      "job_title": "Data Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000086",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "185, Tech Park Avenue, Sector 15",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Pooja Jain",
+        "relationship": "Spouse",
+        "phone": "9986500085",
+        "email": "emergency86@example.com"
+      }
+    },
+    {
+      "employee_id": "E000087",
+      "first_name": "Manish",
+      "last_name": "Rao",
+      "email": "manish.rao87@tc.com",
+      "phone_number": "9876500086",
+      "hire_date": "2025-03-06",
+      "department": "Platform",
+      "job_title": "DevOps Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000087",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "186, Tech Park Avenue, Sector 16",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Rao",
+        "relationship": "Spouse",
+        "phone": "9986500086",
+        "email": "emergency87@example.com"
+      }
+    },
+    {
+      "employee_id": "E000088",
+      "first_name": "Raj",
+      "last_name": "Verma",
+      "email": "raj.verma88@tc.com",
+      "phone_number": "9876500087",
+      "hire_date": "2026-04-07",
+      "department": "Data Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000088",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "187, Tech Park Avenue, Sector 17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neha Verma",
+        "relationship": "Spouse",
+        "phone": "9986500087",
+        "email": "emergency88@example.com"
+      }
+    },
+    {
+      "employee_id": "E000089",
+      "first_name": "Neeraj",
+      "last_name": "Gupta",
+      "email": "neeraj.gupta89@tc.com",
+      "phone_number": "9876500088",
+      "hire_date": "2019-05-08",
+      "department": "DevOps",
+      "job_title": "Senior Backend Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000089",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "188, Tech Park Avenue, Sector 18",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ananya Gupta",
+        "relationship": "Spouse",
+        "phone": "9986500088",
+        "email": "emergency89@example.com"
+      }
+    },
+    {
+      "employee_id": "E000090",
+      "first_name": "Saurabh",
+      "last_name": "Kumar",
+      "email": "saurabh.kumar90@tc.com",
+      "phone_number": "9876500089",
+      "hire_date": "2020-06-09",
+      "department": "Product Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000090",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "189, Tech Park Avenue, Sector 19",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Kumar",
+        "relationship": "Spouse",
+        "phone": "9986500089",
+        "email": "emergency90@example.com"
+      }
+    },
+    {
+      "employee_id": "E000091",
+      "first_name": "Pooja",
+      "last_name": "Reddy",
+      "email": "pooja.reddy91@tc.com",
+      "phone_number": "9876500090",
+      "hire_date": "2021-07-10",
+      "department": "Engineering",
+      "job_title": "Software Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000091",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "190, Tech Park Avenue, Sector 20",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Kavya Reddy",
+        "relationship": "Spouse",
+        "phone": "9986500090",
+        "email": "emergency91@example.com"
+      }
+    },
+    {
+      "employee_id": "E000092",
+      "first_name": "Priya",
+      "last_name": "Kapoor",
+      "email": "priya.kapoor92@tc.com",
+      "phone_number": "9876500091",
+      "hire_date": "2022-08-11",
+      "department": "Platform",
+      "job_title": "Senior Software Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000092",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "191, Tech Park Avenue, Sector 21",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Isha Kapoor",
+        "relationship": "Spouse",
+        "phone": "9986500091",
+        "email": "emergency92@example.com"
+      }
+    },
+    {
+      "employee_id": "E000093",
+      "first_name": "Neha",
+      "last_name": "Chopra",
+      "email": "neha.chopra93@tc.com",
+      "phone_number": "9876500092",
+      "hire_date": "2023-09-12",
+      "department": "Data Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000093",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "192, Tech Park Avenue, Sector 22",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Meera Chopra",
+        "relationship": "Spouse",
+        "phone": "9986500092",
+        "email": "emergency93@example.com"
+      }
+    },
+    {
+      "employee_id": "E000094",
+      "first_name": "Ananya",
+      "last_name": "Mishra",
+      "email": "ananya.mishra94@tc.com",
+      "phone_number": "9876500093",
+      "hire_date": "2024-10-13",
+      "department": "DevOps",
+      "job_title": "Data Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000094",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "193, Tech Park Avenue, Sector 23",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditi Mishra",
+        "relationship": "Spouse",
+        "phone": "9986500093",
+        "email": "emergency94@example.com"
+      }
+    },
+    {
+      "employee_id": "E000095",
+      "first_name": "Sneha",
+      "last_name": "Patel",
+      "email": "sneha.patel95@tc.com",
+      "phone_number": "9876500094",
+      "hire_date": "2025-11-14",
+      "department": "Product Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000095",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "194, Tech Park Avenue, Sector 24",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Riya Patel",
+        "relationship": "Spouse",
+        "phone": "9986500094",
+        "email": "emergency95@example.com"
+      }
+    },
+    {
+      "employee_id": "E000096",
+      "first_name": "Kavya",
+      "last_name": "Mehta",
+      "email": "kavya.mehta96@tc.com",
+      "phone_number": "9876500095",
+      "hire_date": "2026-12-15",
+      "department": "Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000096",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "195, Tech Park Avenue, Sector 25",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Arjun Mehta",
+        "relationship": "Spouse",
+        "phone": "9986500095",
+        "email": "emergency96@example.com"
+      }
+    },
+    {
+      "employee_id": "E000097",
+      "first_name": "Isha",
+      "last_name": "Iyer",
+      "email": "isha.iyer97@tc.com",
+      "phone_number": "9876500096",
+      "hire_date": "2019-01-16",
+      "department": "Platform",
+      "job_title": "Senior Backend Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000097",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "196, Tech Park Avenue, Sector 26",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rahul Iyer",
+        "relationship": "Spouse",
+        "phone": "9986500096",
+        "email": "emergency97@example.com"
+      }
+    },
+    {
+      "employee_id": "E000098",
+      "first_name": "Meera",
+      "last_name": "Shah",
+      "email": "meera.shah98@tc.com",
+      "phone_number": "9876500097",
+      "hire_date": "2020-02-17",
+      "department": "Data Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000098",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "197, Tech Park Avenue, Sector 27",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Shah",
+        "relationship": "Spouse",
+        "phone": "9986500097",
+        "email": "emergency98@example.com"
+      }
+    },
+    {
+      "employee_id": "E000099",
+      "first_name": "Aditi",
+      "last_name": "Das",
+      "email": "aditi.das99@tc.com",
+      "phone_number": "9876500098",
+      "hire_date": "2021-03-18",
+      "department": "DevOps",
+      "job_title": "Software Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000099",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "198, Tech Park Avenue, Sector 28",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Vikram Das",
+        "relationship": "Spouse",
+        "phone": "9986500098",
+        "email": "emergency99@example.com"
+      }
+    },
+    {
+      "employee_id": "E000100",
+      "first_name": "Riya",
+      "last_name": "Bose",
+      "email": "riya.bose100@tc.com",
+      "phone_number": "9876500099",
+      "hire_date": "2022-04-19",
+      "department": "Product Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000100",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "199, Tech Park Avenue, Sector 29",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rohan Bose",
+        "relationship": "Spouse",
+        "phone": "9986500099",
+        "email": "emergency100@example.com"
+      }
+    },
+    {
+      "employee_id": "E000101",
+      "first_name": "Arjun",
+      "last_name": "Sharma",
+      "email": "arjun.sharma101@tc.com",
+      "phone_number": "9876500100",
+      "hire_date": "2023-05-20",
+      "department": "Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000101",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "200, Tech Park Avenue, Sector 10",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Karan Sharma",
+        "relationship": "Spouse",
+        "phone": "9986500100",
+        "email": "emergency101@example.com"
+      }
+    },
+    {
+      "employee_id": "E000102",
+      "first_name": "Rahul",
+      "last_name": "Singh",
+      "email": "rahul.singh102@tc.com",
+      "phone_number": "9876500101",
+      "hire_date": "2024-06-21",
+      "department": "Platform",
+      "job_title": "Data Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000102",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "201, Tech Park Avenue, Sector 11",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditya Singh",
+        "relationship": "Spouse",
+        "phone": "9986500101",
+        "email": "emergency102@example.com"
+      }
+    },
+    {
+      "employee_id": "E000103",
+      "first_name": "Amit",
+      "last_name": "Joshi",
+      "email": "amit.joshi103@tc.com",
+      "phone_number": "9876500102",
+      "hire_date": "2025-07-22",
+      "department": "Data Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000103",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "202, Tech Park Avenue, Sector 12",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Nikhil Joshi",
+        "relationship": "Spouse",
+        "phone": "9986500102",
+        "email": "emergency103@example.com"
+      }
+    },
+    {
+      "employee_id": "E000104",
+      "first_name": "Vikram",
+      "last_name": "Nair",
+      "email": "vikram.nair104@tc.com",
+      "phone_number": "9876500103",
+      "hire_date": "2026-08-23",
+      "department": "DevOps",
+      "job_title": "Full Stack Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000104",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "203, Tech Park Avenue, Sector 13",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Siddharth Nair",
+        "relationship": "Spouse",
+        "phone": "9986500103",
+        "email": "emergency104@example.com"
+      }
+    },
+    {
+      "employee_id": "E000105",
+      "first_name": "Rohan",
+      "last_name": "Malhotra",
+      "email": "rohan.malhotra105@tc.com",
+      "phone_number": "9876500104",
+      "hire_date": "2019-09-24",
+      "department": "Product Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000105",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "204, Tech Park Avenue, Sector 14",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Varun Malhotra",
+        "relationship": "Spouse",
+        "phone": "9986500104",
+        "email": "emergency105@example.com"
+      }
+    },
+    {
+      "employee_id": "E000106",
+      "first_name": "Karan",
+      "last_name": "Jain",
+      "email": "karan.jain106@tc.com",
+      "phone_number": "9876500105",
+      "hire_date": "2020-10-25",
+      "department": "Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000106",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "205, Tech Park Avenue, Sector 15",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ankit Jain",
+        "relationship": "Spouse",
+        "phone": "9986500105",
+        "email": "emergency106@example.com"
+      }
+    },
+    {
+      "employee_id": "E000107",
+      "first_name": "Aditya",
+      "last_name": "Rao",
+      "email": "aditya.rao107@tc.com",
+      "phone_number": "9876500106",
+      "hire_date": "2021-11-26",
+      "department": "Platform",
+      "job_title": "Software Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000107",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "206, Tech Park Avenue, Sector 16",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Manish Rao",
+        "relationship": "Spouse",
+        "phone": "9986500106",
+        "email": "emergency107@example.com"
+      }
+    },
+    {
+      "employee_id": "E000108",
+      "first_name": "Nikhil",
+      "last_name": "Verma",
+      "email": "nikhil.verma108@tc.com",
+      "phone_number": "9876500107",
+      "hire_date": "2022-12-27",
+      "department": "Data Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000108",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "207, Tech Park Avenue, Sector 17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Raj Verma",
+        "relationship": "Spouse",
+        "phone": "9986500107",
+        "email": "emergency108@example.com"
+      }
+    },
+    {
+      "employee_id": "E000109",
+      "first_name": "Siddharth",
+      "last_name": "Gupta",
+      "email": "siddharth.gupta109@tc.com",
+      "phone_number": "9876500108",
+      "hire_date": "2023-01-01",
+      "department": "DevOps",
+      "job_title": "Cloud Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000109",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "208, Tech Park Avenue, Sector 18",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neeraj Gupta",
+        "relationship": "Spouse",
+        "phone": "9986500108",
+        "email": "emergency109@example.com"
+      }
+    },
+    {
+      "employee_id": "E000110",
+      "first_name": "Varun",
+      "last_name": "Kumar",
+      "email": "varun.kumar110@tc.com",
+      "phone_number": "9876500109",
+      "hire_date": "2024-02-02",
+      "department": "Product Engineering",
+      "job_title": "Data Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000110",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "209, Tech Park Avenue, Sector 19",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Saurabh Kumar",
+        "relationship": "Spouse",
+        "phone": "9986500109",
+        "email": "emergency110@example.com"
+      }
+    },
+    {
+      "employee_id": "E000111",
+      "first_name": "Ankit",
+      "last_name": "Reddy",
+      "email": "ankit.reddy111@tc.com",
+      "phone_number": "9876500110",
+      "hire_date": "2025-03-03",
+      "department": "Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000111",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "210, Tech Park Avenue, Sector 20",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Pooja Reddy",
+        "relationship": "Spouse",
+        "phone": "9986500110",
+        "email": "emergency111@example.com"
+      }
+    },
+    {
+      "employee_id": "E000112",
+      "first_name": "Manish",
+      "last_name": "Kapoor",
+      "email": "manish.kapoor112@tc.com",
+      "phone_number": "9876500111",
+      "hire_date": "2026-04-04",
+      "department": "Platform",
+      "job_title": "Full Stack Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000112",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "211, Tech Park Avenue, Sector 21",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Kapoor",
+        "relationship": "Spouse",
+        "phone": "9986500111",
+        "email": "emergency112@example.com"
+      }
+    },
+    {
+      "employee_id": "E000113",
+      "first_name": "Raj",
+      "last_name": "Chopra",
+      "email": "raj.chopra113@tc.com",
+      "phone_number": "9876500112",
+      "hire_date": "2019-05-05",
+      "department": "Data Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000113",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "212, Tech Park Avenue, Sector 22",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neha Chopra",
+        "relationship": "Spouse",
+        "phone": "9986500112",
+        "email": "emergency113@example.com"
+      }
+    },
+    {
+      "employee_id": "E000114",
+      "first_name": "Neeraj",
+      "last_name": "Mishra",
+      "email": "neeraj.mishra114@tc.com",
+      "phone_number": "9876500113",
+      "hire_date": "2020-06-06",
+      "department": "DevOps",
+      "job_title": "Backend Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000114",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "213, Tech Park Avenue, Sector 23",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ananya Mishra",
+        "relationship": "Spouse",
+        "phone": "9986500113",
+        "email": "emergency114@example.com"
+      }
+    },
+    {
+      "employee_id": "E000115",
+      "first_name": "Saurabh",
+      "last_name": "Patel",
+      "email": "saurabh.patel115@tc.com",
+      "phone_number": "9876500114",
+      "hire_date": "2021-07-07",
+      "department": "Product Engineering",
+      "job_title": "Software Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000115",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "214, Tech Park Avenue, Sector 24",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Patel",
+        "relationship": "Spouse",
+        "phone": "9986500114",
+        "email": "emergency115@example.com"
+      }
+    },
+    {
+      "employee_id": "E000116",
+      "first_name": "Pooja",
+      "last_name": "Mehta",
+      "email": "pooja.mehta116@tc.com",
+      "phone_number": "9876500115",
+      "hire_date": "2022-08-08",
+      "department": "Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000116",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "215, Tech Park Avenue, Sector 25",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Kavya Mehta",
+        "relationship": "Spouse",
+        "phone": "9986500115",
+        "email": "emergency116@example.com"
+      }
+    },
+    {
+      "employee_id": "E000117",
+      "first_name": "Priya",
+      "last_name": "Iyer",
+      "email": "priya.iyer117@tc.com",
+      "phone_number": "9876500116",
+      "hire_date": "2023-09-09",
+      "department": "Platform",
+      "job_title": "Cloud Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000117",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "216, Tech Park Avenue, Sector 26",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Isha Iyer",
+        "relationship": "Spouse",
+        "phone": "9986500116",
+        "email": "emergency117@example.com"
+      }
+    },
+    {
+      "employee_id": "E000118",
+      "first_name": "Neha",
+      "last_name": "Shah",
+      "email": "neha.shah118@tc.com",
+      "phone_number": "9876500117",
+      "hire_date": "2024-10-10",
+      "department": "Data Engineering",
+      "job_title": "Data Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000118",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "217, Tech Park Avenue, Sector 27",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Meera Shah",
+        "relationship": "Spouse",
+        "phone": "9986500117",
+        "email": "emergency118@example.com"
+      }
+    },
+    {
+      "employee_id": "E000119",
+      "first_name": "Ananya",
+      "last_name": "Das",
+      "email": "ananya.das119@tc.com",
+      "phone_number": "9876500118",
+      "hire_date": "2025-11-11",
+      "department": "DevOps",
+      "job_title": "DevOps Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000119",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "218, Tech Park Avenue, Sector 28",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditi Das",
+        "relationship": "Spouse",
+        "phone": "9986500118",
+        "email": "emergency119@example.com"
+      }
+    },
+    {
+      "employee_id": "E000120",
+      "first_name": "Sneha",
+      "last_name": "Bose",
+      "email": "sneha.bose120@tc.com",
+      "phone_number": "9876500119",
+      "hire_date": "2026-12-12",
+      "department": "Product Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000120",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "219, Tech Park Avenue, Sector 29",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Riya Bose",
+        "relationship": "Spouse",
+        "phone": "9986500119",
+        "email": "emergency120@example.com"
+      }
+    },
+    {
+      "employee_id": "E000121",
+      "first_name": "Kavya",
+      "last_name": "Sharma",
+      "email": "kavya.sharma121@tc.com",
+      "phone_number": "9876500120",
+      "hire_date": "2019-01-13",
+      "department": "Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000121",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "220, Tech Park Avenue, Sector 10",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Arjun Sharma",
+        "relationship": "Spouse",
+        "phone": "9986500120",
+        "email": "emergency121@example.com"
+      }
+    },
+    {
+      "employee_id": "E000122",
+      "first_name": "Isha",
+      "last_name": "Singh",
+      "email": "isha.singh122@tc.com",
+      "phone_number": "9876500121",
+      "hire_date": "2020-02-14",
+      "department": "Platform",
+      "job_title": "Backend Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000122",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "221, Tech Park Avenue, Sector 11",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rahul Singh",
+        "relationship": "Spouse",
+        "phone": "9986500121",
+        "email": "emergency122@example.com"
+      }
+    },
+    {
+      "employee_id": "E000123",
+      "first_name": "Meera",
+      "last_name": "Joshi",
+      "email": "meera.joshi123@tc.com",
+      "phone_number": "9876500122",
+      "hire_date": "2021-03-15",
+      "department": "Data Engineering",
+      "job_title": "Software Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000123",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "222, Tech Park Avenue, Sector 12",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Joshi",
+        "relationship": "Spouse",
+        "phone": "9986500122",
+        "email": "emergency123@example.com"
+      }
+    },
+    {
+      "employee_id": "E000124",
+      "first_name": "Aditi",
+      "last_name": "Nair",
+      "email": "aditi.nair124@tc.com",
+      "phone_number": "9876500123",
+      "hire_date": "2022-04-16",
+      "department": "DevOps",
+      "job_title": "Senior Software Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000124",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "223, Tech Park Avenue, Sector 13",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Vikram Nair",
+        "relationship": "Spouse",
+        "phone": "9986500123",
+        "email": "emergency124@example.com"
+      }
+    },
+    {
+      "employee_id": "E000125",
+      "first_name": "Riya",
+      "last_name": "Malhotra",
+      "email": "riya.malhotra125@tc.com",
+      "phone_number": "9876500124",
+      "hire_date": "2023-05-17",
+      "department": "Product Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000125",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "224, Tech Park Avenue, Sector 14",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rohan Malhotra",
+        "relationship": "Spouse",
+        "phone": "9986500124",
+        "email": "emergency125@example.com"
+      }
+    },
+    {
+      "employee_id": "E000126",
+      "first_name": "Arjun",
+      "last_name": "Jain",
+      "email": "arjun.jain126@tc.com",
+      "phone_number": "9876500125",
+      "hire_date": "2024-06-18",
+      "department": "Engineering",
+      "job_title": "Data Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000126",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "225, Tech Park Avenue, Sector 15",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Karan Jain",
+        "relationship": "Spouse",
+        "phone": "9986500125",
+        "email": "emergency126@example.com"
+      }
+    },
+    {
+      "employee_id": "E000127",
+      "first_name": "Rahul",
+      "last_name": "Rao",
+      "email": "rahul.rao127@tc.com",
+      "phone_number": "9876500126",
+      "hire_date": "2025-07-19",
+      "department": "Platform",
+      "job_title": "DevOps Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000127",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "226, Tech Park Avenue, Sector 16",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditya Rao",
+        "relationship": "Spouse",
+        "phone": "9986500126",
+        "email": "emergency127@example.com"
+      }
+    },
+    {
+      "employee_id": "E000128",
+      "first_name": "Amit",
+      "last_name": "Verma",
+      "email": "amit.verma128@tc.com",
+      "phone_number": "9876500127",
+      "hire_date": "2026-08-20",
+      "department": "Data Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000128",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "227, Tech Park Avenue, Sector 17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Nikhil Verma",
+        "relationship": "Spouse",
+        "phone": "9986500127",
+        "email": "emergency128@example.com"
+      }
+    },
+    {
+      "employee_id": "E000129",
+      "first_name": "Vikram",
+      "last_name": "Gupta",
+      "email": "vikram.gupta129@tc.com",
+      "phone_number": "9876500128",
+      "hire_date": "2019-09-21",
+      "department": "DevOps",
+      "job_title": "Senior Backend Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000129",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "228, Tech Park Avenue, Sector 18",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Siddharth Gupta",
+        "relationship": "Spouse",
+        "phone": "9986500128",
+        "email": "emergency129@example.com"
+      }
+    },
+    {
+      "employee_id": "E000130",
+      "first_name": "Rohan",
+      "last_name": "Kumar",
+      "email": "rohan.kumar130@tc.com",
+      "phone_number": "9876500129",
+      "hire_date": "2020-10-22",
+      "department": "Product Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000130",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "229, Tech Park Avenue, Sector 19",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Varun Kumar",
+        "relationship": "Spouse",
+        "phone": "9986500129",
+        "email": "emergency130@example.com"
+      }
+    },
+    {
+      "employee_id": "E000131",
+      "first_name": "Karan",
+      "last_name": "Reddy",
+      "email": "karan.reddy131@tc.com",
+      "phone_number": "9876500130",
+      "hire_date": "2021-11-23",
+      "department": "Engineering",
+      "job_title": "Software Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000131",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "230, Tech Park Avenue, Sector 20",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ankit Reddy",
+        "relationship": "Spouse",
+        "phone": "9986500130",
+        "email": "emergency131@example.com"
+      }
+    },
+    {
+      "employee_id": "E000132",
+      "first_name": "Aditya",
+      "last_name": "Kapoor",
+      "email": "aditya.kapoor132@tc.com",
+      "phone_number": "9876500131",
+      "hire_date": "2022-12-24",
+      "department": "Platform",
+      "job_title": "Senior Software Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000132",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "231, Tech Park Avenue, Sector 21",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Manish Kapoor",
+        "relationship": "Spouse",
+        "phone": "9986500131",
+        "email": "emergency132@example.com"
+      }
+    },
+    {
+      "employee_id": "E000133",
+      "first_name": "Nikhil",
+      "last_name": "Chopra",
+      "email": "nikhil.chopra133@tc.com",
+      "phone_number": "9876500132",
+      "hire_date": "2023-01-25",
+      "department": "Data Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000133",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "232, Tech Park Avenue, Sector 22",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Raj Chopra",
+        "relationship": "Spouse",
+        "phone": "9986500132",
+        "email": "emergency133@example.com"
+      }
+    },
+    {
+      "employee_id": "E000134",
+      "first_name": "Siddharth",
+      "last_name": "Mishra",
+      "email": "siddharth.mishra134@tc.com",
+      "phone_number": "9876500133",
+      "hire_date": "2024-02-26",
+      "department": "DevOps",
+      "job_title": "Data Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000134",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "233, Tech Park Avenue, Sector 23",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neeraj Mishra",
+        "relationship": "Spouse",
+        "phone": "9986500133",
+        "email": "emergency134@example.com"
+      }
+    },
+    {
+      "employee_id": "E000135",
+      "first_name": "Varun",
+      "last_name": "Patel",
+      "email": "varun.patel135@tc.com",
+      "phone_number": "9876500134",
+      "hire_date": "2025-03-27",
+      "department": "Product Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000135",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "234, Tech Park Avenue, Sector 24",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Saurabh Patel",
+        "relationship": "Spouse",
+        "phone": "9986500134",
+        "email": "emergency135@example.com"
+      }
+    },
+    {
+      "employee_id": "E000136",
+      "first_name": "Ankit",
+      "last_name": "Mehta",
+      "email": "ankit.mehta136@tc.com",
+      "phone_number": "9876500135",
+      "hire_date": "2026-04-01",
+      "department": "Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000136",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "235, Tech Park Avenue, Sector 25",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Pooja Mehta",
+        "relationship": "Spouse",
+        "phone": "9986500135",
+        "email": "emergency136@example.com"
+      }
+    },
+    {
+      "employee_id": "E000137",
+      "first_name": "Manish",
+      "last_name": "Iyer",
+      "email": "manish.iyer137@tc.com",
+      "phone_number": "9876500136",
+      "hire_date": "2019-05-02",
+      "department": "Platform",
+      "job_title": "Senior Backend Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000137",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "236, Tech Park Avenue, Sector 26",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Iyer",
+        "relationship": "Spouse",
+        "phone": "9986500136",
+        "email": "emergency137@example.com"
+      }
+    },
+    {
+      "employee_id": "E000138",
+      "first_name": "Raj",
+      "last_name": "Shah",
+      "email": "raj.shah138@tc.com",
+      "phone_number": "9876500137",
+      "hire_date": "2020-06-03",
+      "department": "Data Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000138",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "237, Tech Park Avenue, Sector 27",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neha Shah",
+        "relationship": "Spouse",
+        "phone": "9986500137",
+        "email": "emergency138@example.com"
+      }
+    },
+    {
+      "employee_id": "E000139",
+      "first_name": "Neeraj",
+      "last_name": "Das",
+      "email": "neeraj.das139@tc.com",
+      "phone_number": "9876500138",
+      "hire_date": "2021-07-04",
+      "department": "DevOps",
+      "job_title": "Software Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000139",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "238, Tech Park Avenue, Sector 28",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ananya Das",
+        "relationship": "Spouse",
+        "phone": "9986500138",
+        "email": "emergency139@example.com"
+      }
+    },
+    {
+      "employee_id": "E000140",
+      "first_name": "Saurabh",
+      "last_name": "Bose",
+      "email": "saurabh.bose140@tc.com",
+      "phone_number": "9876500139",
+      "hire_date": "2022-08-05",
+      "department": "Product Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000140",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "239, Tech Park Avenue, Sector 29",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Bose",
+        "relationship": "Spouse",
+        "phone": "9986500139",
+        "email": "emergency140@example.com"
+      }
+    },
+    {
+      "employee_id": "E000141",
+      "first_name": "Pooja",
+      "last_name": "Sharma",
+      "email": "pooja.sharma141@tc.com",
+      "phone_number": "9876500140",
+      "hire_date": "2023-09-06",
+      "department": "Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000141",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "240, Tech Park Avenue, Sector 10",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Kavya Sharma",
+        "relationship": "Spouse",
+        "phone": "9986500140",
+        "email": "emergency141@example.com"
+      }
+    },
+    {
+      "employee_id": "E000142",
+      "first_name": "Priya",
+      "last_name": "Singh",
+      "email": "priya.singh142@tc.com",
+      "phone_number": "9876500141",
+      "hire_date": "2024-10-07",
+      "department": "Platform",
+      "job_title": "Data Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000142",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "241, Tech Park Avenue, Sector 11",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Isha Singh",
+        "relationship": "Spouse",
+        "phone": "9986500141",
+        "email": "emergency142@example.com"
+      }
+    },
+    {
+      "employee_id": "E000143",
+      "first_name": "Neha",
+      "last_name": "Joshi",
+      "email": "neha.joshi143@tc.com",
+      "phone_number": "9876500142",
+      "hire_date": "2025-11-08",
+      "department": "Data Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000143",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "242, Tech Park Avenue, Sector 12",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Meera Joshi",
+        "relationship": "Spouse",
+        "phone": "9986500142",
+        "email": "emergency143@example.com"
+      }
+    },
+    {
+      "employee_id": "E000144",
+      "first_name": "Ananya",
+      "last_name": "Nair",
+      "email": "ananya.nair144@tc.com",
+      "phone_number": "9876500143",
+      "hire_date": "2026-12-09",
+      "department": "DevOps",
+      "job_title": "Full Stack Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000144",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "243, Tech Park Avenue, Sector 13",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditi Nair",
+        "relationship": "Spouse",
+        "phone": "9986500143",
+        "email": "emergency144@example.com"
+      }
+    },
+    {
+      "employee_id": "E000145",
+      "first_name": "Sneha",
+      "last_name": "Malhotra",
+      "email": "sneha.malhotra145@tc.com",
+      "phone_number": "9876500144",
+      "hire_date": "2019-01-10",
+      "department": "Product Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000145",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "244, Tech Park Avenue, Sector 14",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Riya Malhotra",
+        "relationship": "Spouse",
+        "phone": "9986500144",
+        "email": "emergency145@example.com"
+      }
+    },
+    {
+      "employee_id": "E000146",
+      "first_name": "Kavya",
+      "last_name": "Jain",
+      "email": "kavya.jain146@tc.com",
+      "phone_number": "9876500145",
+      "hire_date": "2020-02-11",
+      "department": "Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000146",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "245, Tech Park Avenue, Sector 15",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Arjun Jain",
+        "relationship": "Spouse",
+        "phone": "9986500145",
+        "email": "emergency146@example.com"
+      }
+    },
+    {
+      "employee_id": "E000147",
+      "first_name": "Isha",
+      "last_name": "Rao",
+      "email": "isha.rao147@tc.com",
+      "phone_number": "9876500146",
+      "hire_date": "2021-03-12",
+      "department": "Platform",
+      "job_title": "Software Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000147",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "246, Tech Park Avenue, Sector 16",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rahul Rao",
+        "relationship": "Spouse",
+        "phone": "9986500146",
+        "email": "emergency147@example.com"
+      }
+    },
+    {
+      "employee_id": "E000148",
+      "first_name": "Meera",
+      "last_name": "Verma",
+      "email": "meera.verma148@tc.com",
+      "phone_number": "9876500147",
+      "hire_date": "2022-04-13",
+      "department": "Data Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000148",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "247, Tech Park Avenue, Sector 17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Verma",
+        "relationship": "Spouse",
+        "phone": "9986500147",
+        "email": "emergency148@example.com"
+      }
+    },
+    {
+      "employee_id": "E000149",
+      "first_name": "Aditi",
+      "last_name": "Gupta",
+      "email": "aditi.gupta149@tc.com",
+      "phone_number": "9876500148",
+      "hire_date": "2023-05-14",
+      "department": "DevOps",
+      "job_title": "Cloud Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000149",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "248, Tech Park Avenue, Sector 18",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Vikram Gupta",
+        "relationship": "Spouse",
+        "phone": "9986500148",
+        "email": "emergency149@example.com"
+      }
+    },
+    {
+      "employee_id": "E000150",
+      "first_name": "Riya",
+      "last_name": "Kumar",
+      "email": "riya.kumar150@tc.com",
+      "phone_number": "9876500149",
+      "hire_date": "2024-06-15",
+      "department": "Product Engineering",
+      "job_title": "Data Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000150",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "249, Tech Park Avenue, Sector 19",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rohan Kumar",
+        "relationship": "Spouse",
+        "phone": "9986500149",
+        "email": "emergency150@example.com"
+      }
+    },
+    {
+      "employee_id": "E000151",
+      "first_name": "Arjun",
+      "last_name": "Reddy",
+      "email": "arjun.reddy151@tc.com",
+      "phone_number": "9876500150",
+      "hire_date": "2025-07-16",
+      "department": "Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000151",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "250, Tech Park Avenue, Sector 20",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Karan Reddy",
+        "relationship": "Spouse",
+        "phone": "9986500150",
+        "email": "emergency151@example.com"
+      }
+    },
+    {
+      "employee_id": "E000152",
+      "first_name": "Rahul",
+      "last_name": "Kapoor",
+      "email": "rahul.kapoor152@tc.com",
+      "phone_number": "9876500151",
+      "hire_date": "2026-08-17",
+      "department": "Platform",
+      "job_title": "Full Stack Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000152",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "251, Tech Park Avenue, Sector 21",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditya Kapoor",
+        "relationship": "Spouse",
+        "phone": "9986500151",
+        "email": "emergency152@example.com"
+      }
+    },
+    {
+      "employee_id": "E000153",
+      "first_name": "Amit",
+      "last_name": "Chopra",
+      "email": "amit.chopra153@tc.com",
+      "phone_number": "9876500152",
+      "hire_date": "2019-09-18",
+      "department": "Data Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000153",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "252, Tech Park Avenue, Sector 22",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Nikhil Chopra",
+        "relationship": "Spouse",
+        "phone": "9986500152",
+        "email": "emergency153@example.com"
+      }
+    },
+    {
+      "employee_id": "E000154",
+      "first_name": "Vikram",
+      "last_name": "Mishra",
+      "email": "vikram.mishra154@tc.com",
+      "phone_number": "9876500153",
+      "hire_date": "2020-10-19",
+      "department": "DevOps",
+      "job_title": "Backend Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000154",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "253, Tech Park Avenue, Sector 23",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Siddharth Mishra",
+        "relationship": "Spouse",
+        "phone": "9986500153",
+        "email": "emergency154@example.com"
+      }
+    },
+    {
+      "employee_id": "E000155",
+      "first_name": "Rohan",
+      "last_name": "Patel",
+      "email": "rohan.patel155@tc.com",
+      "phone_number": "9876500154",
+      "hire_date": "2021-11-20",
+      "department": "Product Engineering",
+      "job_title": "Software Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000155",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "254, Tech Park Avenue, Sector 24",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Varun Patel",
+        "relationship": "Spouse",
+        "phone": "9986500154",
+        "email": "emergency155@example.com"
+      }
+    },
+    {
+      "employee_id": "E000156",
+      "first_name": "Karan",
+      "last_name": "Mehta",
+      "email": "karan.mehta156@tc.com",
+      "phone_number": "9876500155",
+      "hire_date": "2022-12-21",
+      "department": "Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000156",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "255, Tech Park Avenue, Sector 25",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ankit Mehta",
+        "relationship": "Spouse",
+        "phone": "9986500155",
+        "email": "emergency156@example.com"
+      }
+    },
+    {
+      "employee_id": "E000157",
+      "first_name": "Aditya",
+      "last_name": "Iyer",
+      "email": "aditya.iyer157@tc.com",
+      "phone_number": "9876500156",
+      "hire_date": "2023-01-22",
+      "department": "Platform",
+      "job_title": "Cloud Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000157",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "256, Tech Park Avenue, Sector 26",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Manish Iyer",
+        "relationship": "Spouse",
+        "phone": "9986500156",
+        "email": "emergency157@example.com"
+      }
+    },
+    {
+      "employee_id": "E000158",
+      "first_name": "Nikhil",
+      "last_name": "Shah",
+      "email": "nikhil.shah158@tc.com",
+      "phone_number": "9876500157",
+      "hire_date": "2024-02-23",
+      "department": "Data Engineering",
+      "job_title": "Data Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000158",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "257, Tech Park Avenue, Sector 27",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Raj Shah",
+        "relationship": "Spouse",
+        "phone": "9986500157",
+        "email": "emergency158@example.com"
+      }
+    },
+    {
+      "employee_id": "E000159",
+      "first_name": "Siddharth",
+      "last_name": "Das",
+      "email": "siddharth.das159@tc.com",
+      "phone_number": "9876500158",
+      "hire_date": "2025-03-24",
+      "department": "DevOps",
+      "job_title": "DevOps Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000159",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "258, Tech Park Avenue, Sector 28",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neeraj Das",
+        "relationship": "Spouse",
+        "phone": "9986500158",
+        "email": "emergency159@example.com"
+      }
+    },
+    {
+      "employee_id": "E000160",
+      "first_name": "Varun",
+      "last_name": "Bose",
+      "email": "varun.bose160@tc.com",
+      "phone_number": "9876500159",
+      "hire_date": "2026-04-25",
+      "department": "Product Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000160",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "259, Tech Park Avenue, Sector 29",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Saurabh Bose",
+        "relationship": "Spouse",
+        "phone": "9986500159",
+        "email": "emergency160@example.com"
+      }
+    },
+    {
+      "employee_id": "E000161",
+      "first_name": "Ankit",
+      "last_name": "Sharma",
+      "email": "ankit.sharma161@tc.com",
+      "phone_number": "9876500160",
+      "hire_date": "2019-05-26",
+      "department": "Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000161",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "260, Tech Park Avenue, Sector 10",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Pooja Sharma",
+        "relationship": "Spouse",
+        "phone": "9986500160",
+        "email": "emergency161@example.com"
+      }
+    },
+    {
+      "employee_id": "E000162",
+      "first_name": "Manish",
+      "last_name": "Singh",
+      "email": "manish.singh162@tc.com",
+      "phone_number": "9876500161",
+      "hire_date": "2020-06-27",
+      "department": "Platform",
+      "job_title": "Backend Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000162",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "261, Tech Park Avenue, Sector 11",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Singh",
+        "relationship": "Spouse",
+        "phone": "9986500161",
+        "email": "emergency162@example.com"
+      }
+    },
+    {
+      "employee_id": "E000163",
+      "first_name": "Raj",
+      "last_name": "Joshi",
+      "email": "raj.joshi163@tc.com",
+      "phone_number": "9876500162",
+      "hire_date": "2021-07-01",
+      "department": "Data Engineering",
+      "job_title": "Software Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000163",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "262, Tech Park Avenue, Sector 12",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neha Joshi",
+        "relationship": "Spouse",
+        "phone": "9986500162",
+        "email": "emergency163@example.com"
+      }
+    },
+    {
+      "employee_id": "E000164",
+      "first_name": "Neeraj",
+      "last_name": "Nair",
+      "email": "neeraj.nair164@tc.com",
+      "phone_number": "9876500163",
+      "hire_date": "2022-08-02",
+      "department": "DevOps",
+      "job_title": "Senior Software Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000164",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "263, Tech Park Avenue, Sector 13",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ananya Nair",
+        "relationship": "Spouse",
+        "phone": "9986500163",
+        "email": "emergency164@example.com"
+      }
+    },
+    {
+      "employee_id": "E000165",
+      "first_name": "Saurabh",
+      "last_name": "Malhotra",
+      "email": "saurabh.malhotra165@tc.com",
+      "phone_number": "9876500164",
+      "hire_date": "2023-09-03",
+      "department": "Product Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000165",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "264, Tech Park Avenue, Sector 14",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Malhotra",
+        "relationship": "Spouse",
+        "phone": "9986500164",
+        "email": "emergency165@example.com"
+      }
+    },
+    {
+      "employee_id": "E000166",
+      "first_name": "Pooja",
+      "last_name": "Jain",
+      "email": "pooja.jain166@tc.com",
+      "phone_number": "9876500165",
+      "hire_date": "2024-10-04",
+      "department": "Engineering",
+      "job_title": "Data Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000166",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "265, Tech Park Avenue, Sector 15",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Kavya Jain",
+        "relationship": "Spouse",
+        "phone": "9986500165",
+        "email": "emergency166@example.com"
+      }
+    },
+    {
+      "employee_id": "E000167",
+      "first_name": "Priya",
+      "last_name": "Rao",
+      "email": "priya.rao167@tc.com",
+      "phone_number": "9876500166",
+      "hire_date": "2025-11-05",
+      "department": "Platform",
+      "job_title": "DevOps Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000167",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "266, Tech Park Avenue, Sector 16",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Isha Rao",
+        "relationship": "Spouse",
+        "phone": "9986500166",
+        "email": "emergency167@example.com"
+      }
+    },
+    {
+      "employee_id": "E000168",
+      "first_name": "Neha",
+      "last_name": "Verma",
+      "email": "neha.verma168@tc.com",
+      "phone_number": "9876500167",
+      "hire_date": "2026-12-06",
+      "department": "Data Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000168",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "267, Tech Park Avenue, Sector 17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Meera Verma",
+        "relationship": "Spouse",
+        "phone": "9986500167",
+        "email": "emergency168@example.com"
+      }
+    },
+    {
+      "employee_id": "E000169",
+      "first_name": "Ananya",
+      "last_name": "Gupta",
+      "email": "ananya.gupta169@tc.com",
+      "phone_number": "9876500168",
+      "hire_date": "2019-01-07",
+      "department": "DevOps",
+      "job_title": "Senior Backend Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000169",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "268, Tech Park Avenue, Sector 18",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditi Gupta",
+        "relationship": "Spouse",
+        "phone": "9986500168",
+        "email": "emergency169@example.com"
+      }
+    },
+    {
+      "employee_id": "E000170",
+      "first_name": "Sneha",
+      "last_name": "Kumar",
+      "email": "sneha.kumar170@tc.com",
+      "phone_number": "9876500169",
+      "hire_date": "2020-02-08",
+      "department": "Product Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000170",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "269, Tech Park Avenue, Sector 19",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Riya Kumar",
+        "relationship": "Spouse",
+        "phone": "9986500169",
+        "email": "emergency170@example.com"
+      }
+    },
+    {
+      "employee_id": "E000171",
+      "first_name": "Kavya",
+      "last_name": "Reddy",
+      "email": "kavya.reddy171@tc.com",
+      "phone_number": "9876500170",
+      "hire_date": "2021-03-09",
+      "department": "Engineering",
+      "job_title": "Software Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000171",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "270, Tech Park Avenue, Sector 20",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Arjun Reddy",
+        "relationship": "Spouse",
+        "phone": "9986500170",
+        "email": "emergency171@example.com"
+      }
+    },
+    {
+      "employee_id": "E000172",
+      "first_name": "Isha",
+      "last_name": "Kapoor",
+      "email": "isha.kapoor172@tc.com",
+      "phone_number": "9876500171",
+      "hire_date": "2022-04-10",
+      "department": "Platform",
+      "job_title": "Senior Software Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000172",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "271, Tech Park Avenue, Sector 21",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rahul Kapoor",
+        "relationship": "Spouse",
+        "phone": "9986500171",
+        "email": "emergency172@example.com"
+      }
+    },
+    {
+      "employee_id": "E000173",
+      "first_name": "Meera",
+      "last_name": "Chopra",
+      "email": "meera.chopra173@tc.com",
+      "phone_number": "9876500172",
+      "hire_date": "2023-05-11",
+      "department": "Data Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000173",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "272, Tech Park Avenue, Sector 22",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Chopra",
+        "relationship": "Spouse",
+        "phone": "9986500172",
+        "email": "emergency173@example.com"
+      }
+    },
+    {
+      "employee_id": "E000174",
+      "first_name": "Aditi",
+      "last_name": "Mishra",
+      "email": "aditi.mishra174@tc.com",
+      "phone_number": "9876500173",
+      "hire_date": "2024-06-12",
+      "department": "DevOps",
+      "job_title": "Data Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000174",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "273, Tech Park Avenue, Sector 23",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Vikram Mishra",
+        "relationship": "Spouse",
+        "phone": "9986500173",
+        "email": "emergency174@example.com"
+      }
+    },
+    {
+      "employee_id": "E000175",
+      "first_name": "Riya",
+      "last_name": "Patel",
+      "email": "riya.patel175@tc.com",
+      "phone_number": "9876500174",
+      "hire_date": "2025-07-13",
+      "department": "Product Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000175",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "274, Tech Park Avenue, Sector 24",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rohan Patel",
+        "relationship": "Spouse",
+        "phone": "9986500174",
+        "email": "emergency175@example.com"
+      }
+    },
+    {
+      "employee_id": "E000176",
+      "first_name": "Arjun",
+      "last_name": "Mehta",
+      "email": "arjun.mehta176@tc.com",
+      "phone_number": "9876500175",
+      "hire_date": "2026-08-14",
+      "department": "Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000176",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "275, Tech Park Avenue, Sector 25",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Karan Mehta",
+        "relationship": "Spouse",
+        "phone": "9986500175",
+        "email": "emergency176@example.com"
+      }
+    },
+    {
+      "employee_id": "E000177",
+      "first_name": "Rahul",
+      "last_name": "Iyer",
+      "email": "rahul.iyer177@tc.com",
+      "phone_number": "9876500176",
+      "hire_date": "2019-09-15",
+      "department": "Platform",
+      "job_title": "Senior Backend Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000177",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "276, Tech Park Avenue, Sector 26",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditya Iyer",
+        "relationship": "Spouse",
+        "phone": "9986500176",
+        "email": "emergency177@example.com"
+      }
+    },
+    {
+      "employee_id": "E000178",
+      "first_name": "Amit",
+      "last_name": "Shah",
+      "email": "amit.shah178@tc.com",
+      "phone_number": "9876500177",
+      "hire_date": "2020-10-16",
+      "department": "Data Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000178",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "277, Tech Park Avenue, Sector 27",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Nikhil Shah",
+        "relationship": "Spouse",
+        "phone": "9986500177",
+        "email": "emergency178@example.com"
+      }
+    },
+    {
+      "employee_id": "E000179",
+      "first_name": "Vikram",
+      "last_name": "Das",
+      "email": "vikram.das179@tc.com",
+      "phone_number": "9876500178",
+      "hire_date": "2021-11-17",
+      "department": "DevOps",
+      "job_title": "Software Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000179",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "278, Tech Park Avenue, Sector 28",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Siddharth Das",
+        "relationship": "Spouse",
+        "phone": "9986500178",
+        "email": "emergency179@example.com"
+      }
+    },
+    {
+      "employee_id": "E000180",
+      "first_name": "Rohan",
+      "last_name": "Bose",
+      "email": "rohan.bose180@tc.com",
+      "phone_number": "9876500179",
+      "hire_date": "2022-12-18",
+      "department": "Product Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000180",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "279, Tech Park Avenue, Sector 29",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Varun Bose",
+        "relationship": "Spouse",
+        "phone": "9986500179",
+        "email": "emergency180@example.com"
+      }
+    },
+    {
+      "employee_id": "E000181",
+      "first_name": "Karan",
+      "last_name": "Sharma",
+      "email": "karan.sharma181@tc.com",
+      "phone_number": "9876500180",
+      "hire_date": "2023-01-19",
+      "department": "Engineering",
+      "job_title": "Cloud Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000181",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "280, Tech Park Avenue, Sector 10",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ankit Sharma",
+        "relationship": "Spouse",
+        "phone": "9986500180",
+        "email": "emergency181@example.com"
+      }
+    },
+    {
+      "employee_id": "E000182",
+      "first_name": "Aditya",
+      "last_name": "Singh",
+      "email": "aditya.singh182@tc.com",
+      "phone_number": "9876500181",
+      "hire_date": "2024-02-20",
+      "department": "Platform",
+      "job_title": "Data Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000182",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "281, Tech Park Avenue, Sector 11",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Manish Singh",
+        "relationship": "Spouse",
+        "phone": "9986500181",
+        "email": "emergency182@example.com"
+      }
+    },
+    {
+      "employee_id": "E000183",
+      "first_name": "Nikhil",
+      "last_name": "Joshi",
+      "email": "nikhil.joshi183@tc.com",
+      "phone_number": "9876500182",
+      "hire_date": "2025-03-21",
+      "department": "Data Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000183",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "282, Tech Park Avenue, Sector 12",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Raj Joshi",
+        "relationship": "Spouse",
+        "phone": "9986500182",
+        "email": "emergency183@example.com"
+      }
+    },
+    {
+      "employee_id": "E000184",
+      "first_name": "Siddharth",
+      "last_name": "Nair",
+      "email": "siddharth.nair184@tc.com",
+      "phone_number": "9876500183",
+      "hire_date": "2026-04-22",
+      "department": "DevOps",
+      "job_title": "Full Stack Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000184",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "283, Tech Park Avenue, Sector 13",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neeraj Nair",
+        "relationship": "Spouse",
+        "phone": "9986500183",
+        "email": "emergency184@example.com"
+      }
+    },
+    {
+      "employee_id": "E000185",
+      "first_name": "Varun",
+      "last_name": "Malhotra",
+      "email": "varun.malhotra185@tc.com",
+      "phone_number": "9876500184",
+      "hire_date": "2019-05-23",
+      "department": "Product Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000185",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "284, Tech Park Avenue, Sector 14",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Saurabh Malhotra",
+        "relationship": "Spouse",
+        "phone": "9986500184",
+        "email": "emergency185@example.com"
+      }
+    },
+    {
+      "employee_id": "E000186",
+      "first_name": "Ankit",
+      "last_name": "Jain",
+      "email": "ankit.jain186@tc.com",
+      "phone_number": "9876500185",
+      "hire_date": "2020-06-24",
+      "department": "Engineering",
+      "job_title": "Backend Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000186",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "285, Tech Park Avenue, Sector 15",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Pooja Jain",
+        "relationship": "Spouse",
+        "phone": "9986500185",
+        "email": "emergency186@example.com"
+      }
+    },
+    {
+      "employee_id": "E000187",
+      "first_name": "Manish",
+      "last_name": "Rao",
+      "email": "manish.rao187@tc.com",
+      "phone_number": "9876500186",
+      "hire_date": "2021-07-25",
+      "department": "Platform",
+      "job_title": "Software Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000187",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "286, Tech Park Avenue, Sector 16",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Rao",
+        "relationship": "Spouse",
+        "phone": "9986500186",
+        "email": "emergency187@example.com"
+      }
+    },
+    {
+      "employee_id": "E000188",
+      "first_name": "Raj",
+      "last_name": "Verma",
+      "email": "raj.verma188@tc.com",
+      "phone_number": "9876500187",
+      "hire_date": "2022-08-26",
+      "department": "Data Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000188",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "287, Tech Park Avenue, Sector 17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Neha Verma",
+        "relationship": "Spouse",
+        "phone": "9986500187",
+        "email": "emergency188@example.com"
+      }
+    },
+    {
+      "employee_id": "E000189",
+      "first_name": "Neeraj",
+      "last_name": "Gupta",
+      "email": "neeraj.gupta189@tc.com",
+      "phone_number": "9876500188",
+      "hire_date": "2023-09-27",
+      "department": "DevOps",
+      "job_title": "Cloud Engineer",
+      "salary": 1050000,
+      "currency": "EUR",
+      "employment_status": "Full-time",
+      "manager_id": "M000189",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "288, Tech Park Avenue, Sector 18",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ananya Gupta",
+        "relationship": "Spouse",
+        "phone": "9986500188",
+        "email": "emergency189@example.com"
+      }
+    },
+    {
+      "employee_id": "E000190",
+      "first_name": "Saurabh",
+      "last_name": "Kumar",
+      "email": "saurabh.kumar190@tc.com",
+      "phone_number": "9876500189",
+      "hire_date": "2024-10-01",
+      "department": "Product Engineering",
+      "job_title": "Data Engineer",
+      "salary": 1100000,
+      "currency": "INR",
+      "employment_status": "Contract",
+      "manager_id": "M000190",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "289, Tech Park Avenue, Sector 19",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Kumar",
+        "relationship": "Spouse",
+        "phone": "9986500189",
+        "email": "emergency190@example.com"
+      }
+    },
+    {
+      "employee_id": "E000191",
+      "first_name": "Pooja",
+      "last_name": "Reddy",
+      "email": "pooja.reddy191@tc.com",
+      "phone_number": "9876500190",
+      "hire_date": "2025-11-02",
+      "department": "Engineering",
+      "job_title": "DevOps Engineer",
+      "salary": 1150000,
+      "currency": "USD",
+      "employment_status": "Part-time",
+      "manager_id": "M000191",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "290, Tech Park Avenue, Sector 20",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postal_code": "560100",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Kavya Reddy",
+        "relationship": "Spouse",
+        "phone": "9986500190",
+        "email": "emergency191@example.com"
+      }
+    },
+    {
+      "employee_id": "E000192",
+      "first_name": "Priya",
+      "last_name": "Kapoor",
+      "email": "priya.kapoor192@tc.com",
+      "phone_number": "9876500191",
+      "hire_date": "2026-12-03",
+      "department": "Platform",
+      "job_title": "Full Stack Engineer",
+      "salary": 1200000,
+      "currency": "EUR",
+      "employment_status": "Intern",
+      "manager_id": "M000192",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "291, Tech Park Avenue, Sector 21",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "postal_code": "500081",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Isha Kapoor",
+        "relationship": "Spouse",
+        "phone": "9986500191",
+        "email": "emergency192@example.com"
+      }
+    },
+    {
+      "employee_id": "E000193",
+      "first_name": "Neha",
+      "last_name": "Chopra",
+      "email": "neha.chopra193@tc.com",
+      "phone_number": "9876500192",
+      "hire_date": "2019-01-04",
+      "department": "Data Engineering",
+      "job_title": "Senior Backend Engineer",
+      "salary": 650000,
+      "currency": "INR",
+      "employment_status": "Full-time",
+      "manager_id": "M000193",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "292, Tech Park Avenue, Sector 22",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "postal_code": "411057",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Meera Chopra",
+        "relationship": "Spouse",
+        "phone": "9986500192",
+        "email": "emergency193@example.com"
+      }
+    },
+    {
+      "employee_id": "E000194",
+      "first_name": "Ananya",
+      "last_name": "Mishra",
+      "email": "ananya.mishra194@tc.com",
+      "phone_number": "9876500193",
+      "hire_date": "2020-02-05",
+      "department": "DevOps",
+      "job_title": "Backend Engineer",
+      "salary": 700000,
+      "currency": "USD",
+      "employment_status": "Contract",
+      "manager_id": "M000194",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "293, Tech Park Avenue, Sector 23",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400076",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Aditi Mishra",
+        "relationship": "Spouse",
+        "phone": "9986500193",
+        "email": "emergency194@example.com"
+      }
+    },
+    {
+      "employee_id": "E000195",
+      "first_name": "Sneha",
+      "last_name": "Patel",
+      "email": "sneha.patel195@tc.com",
+      "phone_number": "9876500194",
+      "hire_date": "2021-03-06",
+      "department": "Product Engineering",
+      "job_title": "Software Engineer",
+      "salary": 750000,
+      "currency": "EUR",
+      "employment_status": "Part-time",
+      "manager_id": "M000195",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "address": {
+        "street": "294, Tech Park Avenue, Sector 24",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600096",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Riya Patel",
+        "relationship": "Spouse",
+        "phone": "9986500194",
+        "email": "emergency195@example.com"
+      }
+    },
+    {
+      "employee_id": "E000196",
+      "first_name": "Kavya",
+      "last_name": "Mehta",
+      "email": "kavya.mehta196@tc.com",
+      "phone_number": "9876500195",
+      "hire_date": "2022-04-07",
+      "department": "Engineering",
+      "job_title": "Senior Software Engineer",
+      "salary": 800000,
+      "currency": "INR",
+      "employment_status": "Intern",
+      "manager_id": "M000196",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "address": {
+        "street": "295, Tech Park Avenue, Sector 25",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "postal_code": "122002",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Arjun Mehta",
+        "relationship": "Spouse",
+        "phone": "9986500195",
+        "email": "emergency196@example.com"
+      }
+    },
+    {
+      "employee_id": "E000197",
+      "first_name": "Isha",
+      "last_name": "Iyer",
+      "email": "isha.iyer197@tc.com",
+      "phone_number": "9876500196",
+      "hire_date": "2023-05-08",
+      "department": "Platform",
+      "job_title": "Cloud Engineer",
+      "salary": 850000,
+      "currency": "USD",
+      "employment_status": "Full-time",
+      "manager_id": "M000197",
+      "is_active": true,
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "address": {
+        "street": "296, Tech Park Avenue, Sector 26",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "postal_code": "201301",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rahul Iyer",
+        "relationship": "Spouse",
+        "phone": "9986500196",
+        "email": "emergency197@example.com"
+      }
+    },
+    {
+      "employee_id": "E000198",
+      "first_name": "Meera",
+      "last_name": "Shah",
+      "email": "meera.shah198@tc.com",
+      "phone_number": "9876500197",
+      "hire_date": "2024-06-09",
+      "department": "Data Engineering",
+      "job_title": "Data Engineer",
+      "salary": 900000,
+      "currency": "EUR",
+      "employment_status": "Contract",
+      "manager_id": "M000198",
+      "is_active": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "GCP",
+        "BigQuery"
+      ],
+      "address": {
+        "street": "297, Tech Park Avenue, Sector 27",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "postal_code": "452001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Shah",
+        "relationship": "Spouse",
+        "phone": "9986500197",
+        "email": "emergency198@example.com"
+      }
+    },
+    {
+      "employee_id": "E000199",
+      "first_name": "Aditi",
+      "last_name": "Das",
+      "email": "aditi.das199@tc.com",
+      "phone_number": "9876500198",
+      "hire_date": "2025-07-10",
+      "department": "DevOps",
+      "job_title": "DevOps Engineer",
+      "salary": 950000,
+      "currency": "INR",
+      "employment_status": "Part-time",
+      "manager_id": "M000199",
+      "is_active": true,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Jenkins"
+      ],
+      "address": {
+        "street": "298, Tech Park Avenue, Sector 28",
+        "city": "Delhi",
+        "state": "Delhi",
+        "postal_code": "110001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Vikram Das",
+        "relationship": "Spouse",
+        "phone": "9986500198",
+        "email": "emergency199@example.com"
+      }
+    },
+    {
+      "employee_id": "E000200",
+      "first_name": "Riya",
+      "last_name": "Bose",
+      "email": "riya.bose200@tc.com",
+      "phone_number": "9876500199",
+      "hire_date": "2026-08-11",
+      "department": "Product Engineering",
+      "job_title": "Full Stack Engineer",
+      "salary": 1000000,
+      "currency": "USD",
+      "employment_status": "Intern",
+      "manager_id": "M000200",
+      "is_active": true,
+      "skills": [
+        "Java",
+        "React",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "address": {
+        "street": "299, Tech Park Avenue, Sector 29",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700091",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rohan Bose",
+        "relationship": "Spouse",
+        "phone": "9986500199",
+        "email": "emergency200@example.com"
+      }
+    }
+  
+  ]

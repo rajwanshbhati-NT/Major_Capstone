@@ -1,0 +1,41 @@
+﻿{
+  "file_name": "employees_fixedwidth.txt",
+  "format": "FIXEDWIDTH",
+  "target_table": "stg_employees",
+  "columns": [
+    { "name": "employee_id",       "start": 1,   "length": 36 },
+    { "name": "first_name",        "start": 38,  "length": 15 },
+    { "name": "last_name",         "start": 54,  "length": 15 },
+    { "name": "email",             "start": 70,  "length": 35 },
+    { "name": "phone_number",      "start": 106, "length": 18 },
+    { "name": "hire_date",         "start": 125, "length": 10 },
+    { "name": "department",        "start": 136, "length": 12 },
+    { "name": "job_title",         "start": 149, "length": 25 },
+    { "name": "salary",            "start": 175, "length": 8  },
+    { "name": "currency",          "start": 184, "length": 3  },
+    { "name": "employment_status", "start": 188, "length": 13 },
+    { "name": "manager_id",        "start": 202, "length": 36 },
+    { "name": "is_active",         "start": 239, "length": 5  },
+    { "name": "skills",            "start": 245, "length": 50 },
+    { "name": "address",           "start": 296, "length": 80 },
+    { "name": "emergency_contact", "start": 377, "length": 100 }
+  ],
+  "fields": {
+    "employee_id":       { "required": true },
+    "first_name":        { "required": true },
+    "last_name":         { "required": false },
+    "email":             { "required": true },
+    "phone_number":      { "required": true, "sensitive": true, "encrypt": true },
+    "hire_date":         { "required": true },
+    "department":        { "required": true },
+    "job_title":         { "required": true },
+    "salary":            { "required": true, "sensitive": true, "encrypt": true },
+    "currency":          { "required": true },
+    "employment_status": { "required": true },
+    "manager_id":        { "required": true },
+    "is_active":         { "required": true },
+    "skills":            { "required": false },
+    "address":           { "required": false },
+    "emergency_contact": { "required": false, "sensitive": true, "encrypt_nested_phone": true }
+  }
+}

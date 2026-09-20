@@ -1,0 +1,89 @@
+[
+  {
+    "employee_id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+    "first_name": "Arjun",
+    "last_name": "Sharma",
+    "email": "arjun.sharma@techcorp.com",
+    "phone_number": "+91-98765-43210",
+    "hire_date": "2022-03-15",
+    "department": "Engineering",
+    "job_title": "Senior Backend Engineer",
+    "salary": 950000,
+    "currency": "INR",
+    "employment_status": "Full-time",
+    "manager_id": "1a2bc3de-4f5g-6h7i-8j9k-0l1m2n3o4p5q",
+    "is_active": true,
+    "skills": ["Python", "PostgreSQL", "Docker", "AWS"],
+    "address": {
+      "street": "102, Silicon Heights, Electronic City",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postal_code": "560100",
+      "country": "India"
+    },
+    "emergency_contact": {
+      "name": "Priya Sharma",
+      "relationship": "Spouse",
+      "phone": "+91-98765-43211",
+      "email": "priya.s@example.com"
+    }
+  },
+  {
+    "employee_id": "a3f5b2c1-9d8e-4f6a-b7c8-1d2e3f4a5b6c",
+    "first_name": "Neha",
+    "last_name": "Verma",
+    "email": "neha.verma@techcorp.com",
+    "phone_number": "+91-99887-76655",
+    "hire_date": "2021-07-01",
+    "department": "Data",
+    "job_title": "Lead Data Engineer",
+    "salary": 1450000,
+    "currency": "INR",
+    "employment_status": "Full-time",
+    "manager_id": "1a2bc3de-4f5g-6h7i-8j9k-0l1m2n3o4p5q",
+    "is_active": true,
+    "skills": ["Spark", "Airflow", "BigQuery", "GCP"],
+    "address": {
+      "street": "Flat 7B, Lake View Apartments",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postal_code": "500032",
+      "country": "India"
+    },
+    "emergency_contact": {
+      "name": "Rohit Verma",
+      "relationship": "Brother",
+      "phone": "+91-99887-76600",
+      "email": "rohit.v@example.com"
+    }
+  },
+  {
+    "employee_id": "f0e1d2c3-b4a5-4687-89ab-cdef01234567",
+    "first_name": "Rohit",
+    "last_name": "",
+    "email": "rohit.iyer@techcorp.com",
+    "phone_number": "+91-90123-45678",
+    "hire_date": "2024-11-04",
+    "department": "Engineering",
+    "job_title": "Junior SDE",
+    "salary": 650000,
+    "currency": "INR",
+    "employment_status": "Intern",
+    "manager_id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+    "is_active": false,
+    "skills": ["Java"],
+    "address": {
+      "street": "Hostel 3, IIT",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postal_code": "400076",
+      "country": "India"
+    },
+    "emergency_contact": {
+      "name": "Suresh Iyer",
+      "relationship": "Father",
+      "phone": "+91-90123-11111",
+      "email": "suresh.i@example.com"
+    }
+  }
+]

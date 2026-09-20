@@ -1,0 +1,24 @@
+{
+  "file_name": "employees.json",
+  "format": "JSON",
+  "target_table": "stg_employees",
+  "is_json_array": true,
+  "fields": {
+    "employee_id":       { "min_length": 7,  "max_length": 50,  "required": true  },
+    "first_name":        { "min_length": 3,  "max_length": 15,  "required": true  },
+    "last_name":         { "min_length": 1,  "max_length": 15,  "required": true  },
+    "email":             { "min_length": 13, "max_length": 100, "required": true  },
+    "phone_number":      { "min_length": 10, "max_length": 20,  "required": true, "sensitive": true, "encrypt": true },
+    "hire_date":         { "min_length": 10, "max_length": 10,  "required": true  },
+    "department":        { "min_length": 1,  "max_length": 20,  "required": true  },
+    "job_title":         { "min_length": 1,  "max_length": 30,  "required": true  },
+    "salary":            { "min_length": 1,  "max_length": 12,  "required": true, "sensitive": true, "encrypt": true },
+    "currency":          { "min_length": 3,  "max_length": 3,   "required": true  },
+    "employment_status": { "min_length": 3,  "max_length": 13,  "required": true  },
+    "manager_id":        { "min_length": 7,  "max_length": 50,  "required": true  },
+    "is_active":         { "min_length": 4,  "max_length": 5,   "required": true  },
+    "skills":            { "min_length": 1,  "max_length": 500, "required": true  },
+    "address":           { "min_length": 1,  "max_length": 500, "required": true  },
+    "emergency_contact": { "min_length": 1,  "max_length": 200, "required": true, "sensitive": true, "encrypt": true }
+  }
+}

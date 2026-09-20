@@ -1,0 +1,58 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <employee_id>9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d</employee_id>
+        <first_name>Arjun</first_name>
+        <last_name>Sharma</last_name>
+        <email>arjun.sharma@techcorp.com</email>
+        <phone_number>+91-98765-43210</phone_number>
+        <hire_date>2022-03-15</hire_date>
+        <department>Engineering</department>
+        <job_title>Senior Backend Engineer</job_title>
+        <salary>950000</salary>
+        <currency>INR</currency>
+        <employment_status>Full-time</employment_status>
+        <manager_id>1a2bc3de-4f5g-6h7i-8j9k-0l1m2n3o4p5q</manager_id>
+        <is_active>true</is_active>
+        <skills>["Python","PostgreSQL","Docker"]</skills>
+        <address>{"street":"102, Silicon Heights","city":"Bangalore","state":"Karnataka","zip":"560100"}</address>
+        <emergency_contact>{"name":"Priya Sharma","relationship":"spouse","phone":"+91-99887-76655","email":"priya.sharma@gmail.com"}</emergency_contact>
+    </employee>
+    <employee>
+        <employee_id>a3f5b2c1-9d8e-4f6a-b7c8-1d2e3f4a5b6c</employee_id>
+        <first_name>Neha</first_name>
+        <last_name>Verma</last_name>
+        <email>neha.verma@techcorp.com</email>
+        <phone_number>+91-99887-76655</phone_number>
+        <hire_date>2021-07-01</hire_date>
+        <department>Data</department>
+        <job_title>Lead Data Engineer</job_title>
+        <salary>1450000</salary>
+        <currency>INR</currency>
+        <employment_status>Full-time</employment_status>
+        <manager_id>1a2bc3de-4f5g-6h7i-8j9k-0l1m2n3o4p5q</manager_id>
+        <is_active>true</is_active>
+        <skills>["Spark","Airflow","BigQuery"]</skills>
+        <address>{"street":"Flat 7B, Lake View","city":"Mumbai","state":"Maharashtra","zip":"400050"}</address>
+        <emergency_contact>{"name":"Rohit Verma","relationship":"brother","phone":"+91-90123-45678","email":"rohit.v@gmail.com"}</emergency_contact>
+    </employee>
+    <employee>
+        <employee_id>f0e1d2c3-b4a5-4687-89ab-cdef01234567</employee_id>
+        <first_name>Rohit</first_name>
+        <last_name>Iyer</last_name>
+        <email>rohit.iyer@techcorp.com</email>
+        <phone_number>+91-90123-45678</phone_number>
+        <hire_date>2024-11-04</hire_date>
+        <department>Engineering</department>
+        <job_title>Junior SDE</job_title>
+        <salary>650000</salary>
+        <currency>INR</currency>
+        <employment_status>Intern</employment_status>
+        <manager_id>9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d</manager_id>
+        <is_active>false</is_active>
+        <skills>["Java"]</skills>
+        <address>{"street":"23, MG Road","city":"Pune","state":"Maharashtra","zip":"411001"}</address>
+        <emergency_contact>{"name":"Sneha Iyer","relationship":"sister","phone":"+91-99887-11111","email":"sneha.i@gmail.com"}</emergency_contact>
+    </employee>
+</employees>

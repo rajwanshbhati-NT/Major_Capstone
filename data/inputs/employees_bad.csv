@@ -1,0 +1,5 @@
+employee_id,first_name,last_name,email,phone,hire_date,job_title,department,salary,manager_id,address,city,state,zip_code,country,birth_date
+E001,John,Doe,john@test.com,+1-555-1234,2020-01-15,Engineer,IT,50000,M001,123 Main St,NYC,NY,10001,USA,1990-01-01
+,,,,,,,,,,,,,,,
+E002,Jane,Smith,jane@test.com,+1-555-5678,2020-02-01,Manager,Sales,60000,M002,456 Oak Ave,LA,CA,90001,USA,1992-05-15
+E003,Bob,Brown,bob@test.com,+1-555-9012,2020-03-01,Director,HR,80000,M003,789 Pine St,SF,CA,94101,USA,1991-07-22

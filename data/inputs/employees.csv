@@ -1,0 +1,5 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,department,job_title,salary,currency,employment_status,manager_id,is_active,skills,address,emergency_contact
+9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d,Arjun,Sharma,arjun.sharma@techcorp.com,+91-98765-43210,2022-03-15,Engineering,Senior Backend Engineer,950000,INR,Full-time,1a2bc3de-4f5g-6h7i-8j9k-0l1m2n3o4p5q,true,Java;Python;SQL,"123 Main St Springfield IL",Jane Smith 5559876543
+,,,,,,,,,,,,,,
+,Bad,Row,bad@bad.com,+91-11111-22222,2024-01-01,Engineering,SDE,100000,INR,Full-time,9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d,false,Java,"Some Addr",Contact
+a3f5b2c1-9d8e-4f6a-b7c8-1d2e3f4a5b6c,Neha,Verma, mnn,/neha.verma@techcorp.com,+91-99887-76655,2021-07-01,Data,Lead Data Engineer,1450000,INR,Full-time,1a2bc3de-4f5g-6h7i-8j9k-0l1m2n3o4p5q,true,CRM;Negotiation;Salesforce,"456 Oak Ave Chicago IL",Raj Verma 5558765432
